@@ -5,7 +5,7 @@ This is me **Hem Chandra Joshi** . I am Machine Learning enthuasist . Currently 
 # Education
 * Ph.D. , [Pursuing , Indian Institute Of Roorkee](https://iitr.ac.in){:target="_blank"} **(2020-present)**
 * M.Tech , [University Of Hyderabad](https://uohyd.ac.in) **(2018-2020)**
-* B.Tech , [State Government College Uttarakhand](https://sitp.ac.in) **(2012-1016)**
+* B.Tech , [State Government College Uttarakhand](https://sitp.ac.in) **(2012-2016)**
 
 
 # Research Interests
