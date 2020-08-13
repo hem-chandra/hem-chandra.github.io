@@ -1,5 +1,5 @@
 Hi,I am Hem Chandra Joshi
-![Hem Chandra Joshi](https://github.com/hem-chandra/hem-chandra.github.io/blob/master/39169621_1045096285671870_7667146261270626304_o.jpg)
+![Hem Chandra Joshi](https://scontent.fdel25-1.fna.fbcdn.net/v/t1.0-9/53560104_1178557005659130_8451292442094731264_n.jpg?_nc_cat=103&_nc_sid=7aed08&_nc_ohc=fdEUjlkdzZ8AX-U6tCN&_nc_oc=AQmlUb_0xsLSYDb5-G1SAO2bbhx0bcMuOOCAIivtaZCM99JQIhWfl8bIezC3PFcbslw&_nc_ht=scontent.fdel25-1.fna&oh=a5ccbc859df1053a87c6e11a6f13c6dc&oe=5F5CDA3B)
 
 # Education
 * Ph.D. [Pursuing , Indian Institute Of Roorkee](https://iitr.ac.in)
