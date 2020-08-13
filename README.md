@@ -1,6 +1,5 @@
 Hi,I am Hem Chandra Joshi
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
-![Image of Yaktocat](https://github.com/hem-chandra/hem-chandra.github.io/blob/master/39169621_1045096285671870_7667146261270626304_o.jpg)
+![Hem Chandra Joshi](https://github.com/hem-chandra/hem-chandra.github.io/blob/master/39169621_1045096285671870_7667146261270626304_o.jpg)
 
 # Education
 * Ph.D. (Pursuing , Indian Institute Of Roorkee)
