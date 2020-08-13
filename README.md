@@ -1,4 +1,4 @@
-Hi,I am Hem Chandra Joshi
+This is me **Hem Chandra Joshi** . I am Machine Learning enthuasist
 ![Hem Chandra Joshi](https://scontent.fdel25-1.fna.fbcdn.net/v/t1.0-9/53560104_1178557005659130_8451292442094731264_n.jpg?_nc_cat=103&_nc_sid=7aed08&_nc_ohc=fdEUjlkdzZ8AX-U6tCN&_nc_oc=AQmlUb_0xsLSYDb5-G1SAO2bbhx0bcMuOOCAIivtaZCM99JQIhWfl8bIezC3PFcbslw&_nc_ht=scontent.fdel25-1.fna&oh=a5ccbc859df1053a87c6e11a6f13c6dc&oe=5F5CDA3B)
 
 # Education
@@ -18,6 +18,18 @@ Hi,I am Hem Chandra Joshi
 * 1570 AIR in GATE 2017
 * AIEEE (Now knows as IIT-JEE)
 * 301 AIR Rank in GBPUAT Exam
+
+# Skills
+*
+*
+*
+
+# Industry Experience
+* One year experience in Connect Labs (Gurugram,India)
+* One year intern in IDRBT , Hyderabad
+
+# Extras
+* Startup with Health Care Professionals [MedicalGyan.in](https://medicalgyan.in)
 
 
 
