@@ -28,6 +28,6 @@ This is me **Hem Chandra Joshi** . I am Machine Learning enthuasist .
 
 # Contact
 * Department of Computer Science & Engineering , IIT Roorkee
-* ![http://i.imgur.com/fep1WsG.png](https://www.facebook.com/hemchandra.joshi.1426)
+* [![http://i.imgur.com/fep1WsG.png]](https://www.facebook.com/hemchandra.joshi.1426)
 
 
