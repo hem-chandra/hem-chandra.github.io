@@ -17,10 +17,10 @@ Hi , I am **Hem Chandra Joshi** . I am _**Machine Learning**_ enthuasist . Curre
 * Software Engineering 
 
 # Exam Qualitifed
-* **17 AIR** in UGC-NET (UGC-JRF Holder) 2019
+* **17 AIR** in UGC-NET (_**UGC-JRF Holder**_) 2019
 * **1570 AIR** in GATE 2017
-* AIEEE (Now knows as IIT-JEE)
-* **301 AIR** Rank in GBPUAT Exam
+* **AIEEE (Now knows as IIT-JEE)**
+* **301 AIR** in [GBPUAT Exam](https://gbpuat.ac.in){:target="_blank"}
 
 # Industry Experience
 * **One year** experience in [Connect Internet Services](http://www.connectlabs.com){:target="_blank"} (Gurugram,India)
