@@ -4,8 +4,8 @@ Hi , I am **Hem Chandra Joshi** . I am _**Machine Learning**_ enthuasist . Curre
 
 # Education
 * Ph.D. , **[Pursuing , Indian Institute Of Roorkee](https://iitr.ac.in){:target="_blank"}** **(2020-present)**
-* M.Tech , [University Of Hyderabad](https://uohyd.ac.in){:target="_blank"} **(2018-2020)**
-* B.Tech , [State Government College Uttarakhand](https://sitp.ac.in){:target="_blank"} **(2012-2016)**
+* M.Tech in Artificial Intelligence , [University Of Hyderabad](https://uohyd.ac.in){:target="_blank"} **(2018-2020)**
+* B.Tech in CSE , [State Government College Uttarakhand](https://sitp.ac.in){:target="_blank"} **(2012-2016)**
 
 
 # Research Interests
