@@ -23,6 +23,7 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](https://github.com/hem-chandra/hem-chandra.github.io/blob/master/rsz_skv_0901.jpg)
 ```
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
