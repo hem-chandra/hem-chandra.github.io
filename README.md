@@ -17,19 +17,20 @@ Hi , I am **Hem Chandra Joshi** . I am _**Machine Learning**_ enthuasist . Curre
 * Software Engineering 
 
 # Exam Qualitifed
-* 17 AIR in UGC-NET (UGC-JRF Holder) 2019
-* 1570 AIR in GATE 2017
+* **17 AIR** in UGC-NET (UGC-JRF Holder) 2019
+* **1570 AIR** in GATE 2017
 * AIEEE (Now knows as IIT-JEE)
-* 301 AIR Rank in GBPUAT Exam
+* **301 AIR** Rank in GBPUAT Exam
 
 # Industry Experience
-* **One year** experience in [Connect Internet Services](http://www.connectlabs.com) (Gurugram,India)
-* **One year** intern in [IDRBT,Hyderabad](http://www.idrbt.ac.in) , **(Research Wing of Reserve Bank Of India)**
+* **One year** experience in [Connect Internet Services](http://www.connectlabs.com){:target="_blank"} (Gurugram,India)
+* **One year** intern in [IDRBT,Hyderabad](http://www.idrbt.ac.in){:target="_blank"} , **(Research Wing of Reserve Bank Of India)**
 
 # Extras
-* Startup with Health Care Professionals [MedicalGyan.in](https://medicalgyan.in)
+* Startup with Health Care Professionals [MedicalGyan.in](https://medicalgyan.in){:target="_blank"}
+* [YouTube Channel : Hem Chandra Live](https://youtube.com/c/hemchandralive){:target="_blank"}
 
 # Contact
-* [![](http://i.imgur.com/fep1WsG.png)](https://www.facebook.com/hemchandra.joshi.1426) , hemjoshi745[at]gmail[dot]com
+* [![](http://i.imgur.com/fep1WsG.png)](https://www.facebook.com/hemchandra.joshi.1426){:target="_blank"} , hemjoshi745[at]gmail[dot]com
 
 
