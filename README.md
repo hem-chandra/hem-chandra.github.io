@@ -19,14 +19,9 @@ This is me **Hem Chandra Joshi** . I am Machine Learning enthuasist
 * AIEEE (Now knows as IIT-JEE)
 * 301 AIR Rank in GBPUAT Exam
 
-# Skills
-*
-*
-*
-
 # Industry Experience
-* One year experience in Connect Labs (Gurugram,India)
-* One year intern in IDRBT , Hyderabad
+* **One year** experience in [Connect Internet Services](http://www.connectlabs.com) (Gurugram,India)
+* **One year** intern in [IDRBT,Hyderabad](http://www.idrbt.ac.in) , (Research Wing of Reserve Bank Of India)
 
 # Extras
 * Startup with Health Care Professionals [MedicalGyan.in](https://medicalgyan.in)
