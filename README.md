@@ -3,8 +3,8 @@ Hi,I am Hem Chandra Joshi
 
 # Education
 * Ph.D. (Pursuing , Indian Institute Of Roorkee)
-* M.Tech , University Of Hyderabad (https://uohyd.ac.in)
-* B.Tech,State Government College Pithoragarh (Uttarakhand) (https://sitp.ac.in)
+* M.Tech , University Of Hyderabad [link to University Of Hyderabad Website!](https://uohyd.ac.in)
+* B.Tech , State Government College Uttarakhand [link to NPSEI Website!](https://sitp.ac.in)
 
 
 # Research Interests
