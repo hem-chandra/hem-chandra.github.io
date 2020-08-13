@@ -23,10 +23,9 @@ Hi , I am **Hem Chandra Joshi** . I am _**Machine Learning**_ enthuasist . Curre
 * **301 AIR** in [GBPUAT Exam](https://gbpuat.ac.in){:target="_blank"}
 
 # Industry Experience
-* **One year** experience in [Connect Internet Services](http://www.connectlabs.com){:target="_blank"} (Gurugram,India)
+* **One year** experience as in [Connect Internet Services](http://www.connectlabs.com){:target="_blank"} (Gurugram,India) as **Android Developer** _(2016-2017)_
 * **One year** intern in [IDRBT,Hyderabad](http://www.idrbt.ac.in){:target="_blank"} , **(Research Wing of Reserve Bank Of India)**
-
-# Extras
+# Extra Curriculars
 * Startup with Health Care Professionals [MedicalGyan.in](https://medicalgyan.in){:target="_blank"}
 * [YouTube Channel : Hem Chandra Live](https://youtube.com/c/hemchandralive){:target="_blank"}
 
