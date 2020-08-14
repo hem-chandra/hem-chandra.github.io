@@ -31,6 +31,6 @@ Hi , I am **Hem Chandra Joshi** . I am _**Machine Learning**_ enthuasist . Curre
 * [YouTube Channel : Hem Chandra Live](https://youtube.com/c/hemchandralive){:target="_blank"}
 
 # Contact
-* [![](http://i.imgur.com/fep1WsG.png)](https://www.facebook.com/hemchandra.joshi.1426){:target="_blank"} , hc_joshi[at]cs[dot]iitr[dot]in
+* [![](https://github.com/ErickSimoes/email-icon/blob/master/gh.png)] hc_joshi[at]cs[dot]iitr[dot]in
 
 
