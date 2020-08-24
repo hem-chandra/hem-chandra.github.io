@@ -29,7 +29,7 @@ Hi , I am **Hem Chandra Joshi** . I am _**Machine Learning**_ enthuasist . Curre
 # Extra Curriculars
 * Startup with Health Care Professionals [MedicalGyan.in](https://medicalgyan.in){:target="_blank"}
 * [YouTube Channel : Hem Chandra Live](https://youtube.com/c/hemchandralive){:target="_blank"}
-* Class Coordinator & Placement Coordinator Of M.Tech AI , University Of Hyderabad
+* Class Coordinator & Placement Coordinator Of M.Tech AI , University Of Hyderabad (2018-2020)
 
 # Contact
 * ![](https://img.icons8.com/clouds/1x/email.png) hc_joshi[at]cs[dot]iitr[dot]ac[dot]in
