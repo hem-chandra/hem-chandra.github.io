@@ -17,7 +17,7 @@ Hi , I am **Hem Chandra Joshi** . I am _**Machine Learning**_ enthuasist . Curre
 * _**Software Engineering**_
 
 # Exam Qualitifed
-* **17 AIR** in [UGC-NET](https://ugcnet.nta.nic.in/){:target="_blank"} (_**UGC-JRF Holder**_) 2019  
+* **17 AIR** in [UGC-NET](https://ugcnet.nta.nic.in/){:target="_blank"} (_**NET+JRF**_) 2019  
 * **1570 AIR** in GATE 2017
 * **AIEEE (Now known as IIT-JEE)**
 * **301 AIR** in [GBPUAT Exam](https://gbpuat.ac.in){:target="_blank"}
