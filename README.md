@@ -36,4 +36,5 @@ Hi , I am **Hem Chandra Joshi** . I am _**Machine Learning**_ enthuasist . Curre
 # Contact
 * ![](https://img.icons8.com/clouds/1x/email.png) hc_joshi[at]cs[dot]iitr[dot]ac[dot]in
 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fhem-chandra.github.io&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23C80606&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
