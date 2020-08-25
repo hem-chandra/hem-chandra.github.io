@@ -36,5 +36,5 @@ Hi , I am **Hem Chandra Joshi** . I am _**Machine Learning**_ enthuasist . Curre
 # Contact
 * ![](https://img.icons8.com/clouds/1x/email.png) hc_joshi[at]cs[dot]iitr[dot]ac[dot]in
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fhem-chandra.github.io&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23C80606&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fhem-chandra.github.io&count_bg=%2321010F&title_bg=%23E40B0B&icon=webauthn.svg&icon_color=%23C80606&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
 
