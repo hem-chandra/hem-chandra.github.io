@@ -1,4 +1,3 @@
-theme: jekyll-theme-leap-day
 # About Me
 Hi , I am **Hem Chandra Joshi** . I am _**Machine Learning**_ enthuasist . Currently , I am  _**Research Scholar**_ in the Department of Computer Science & Engineering,  _**Indian Institute of Technology Roorkee, INDIA**_ under the supervision of
  [Dr. Sandeep Kumar](https://sites.google.com/site/sandeepkumariitr002/home){:target="_blank"} 
