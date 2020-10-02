@@ -4,6 +4,9 @@ Hi , I am **Hem Chandra Joshi** . I am _**Machine Learning**_ enthuasist . Curre
 
 ![Hem Chandra Joshi](https://medicalgyan.in/sites/default/files/2020-09/44065483_1083221881859310_3697254401270874112_o.jpg)
 
+# Blog
+[Machine Learning]( https://hem-chandra.github.io/ai-index.html){:target="_blank"}
+
 # Education
 * Ph.D. , [Pursuing , Indian Institute Of Technology Roorkee](https://iitr.ac.in){:target="_blank"} **(2020-present)**
 * M.Tech in Artificial Intelligence , [University Of Hyderabad](https://uohyd.ac.in){:target="_blank"} **(2018-2020)** Institution Of Eminence .
