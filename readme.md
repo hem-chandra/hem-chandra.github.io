@@ -2,7 +2,7 @@
 Hi , I am **Hem Chandra Joshi** . I am _**Machine Learning**_ enthuasist . Currently , I am  _**Research Scholar**_ in the Department of Computer Science & Engineering,  _**Indian Institute of Technology Roorkee, INDIA**_ under the supervision of
  [Dr. Sandeep Kumar](https://sites.google.com/site/sandeepkumariitr002/home){:target="_blank"} 
 
-![Hem Chandra Joshi](https://medicalgyan.in/sites/default/files/2020-09/44065483_1083221881859310_3697254401270874112_o.jpg)
+![Hem Chandra Joshi](https://user-images.githubusercontent.com/26247353/94924201-b7533f80-04da-11eb-8acf-14ec7b2bcfc3.jpg)
 
 # Blog
 [Machine Learning]( https://hem-chandra.github.io/ai-index.html){:target="_blank"}
