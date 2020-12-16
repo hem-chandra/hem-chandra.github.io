@@ -30,6 +30,8 @@ Hi , I am **Hem Chandra Joshi** . I am _**Machine Learning**_ enthuasist . Curre
 # Industry Experience
 
 ![IMG_4033 (1)](https://user-images.githubusercontent.com/26247353/102327481-cdd24880-3fab-11eb-91c7-1d58ef2798c1.jpg)
+
+* **Internship in Startup** [Vuzelaa Private Limited](){} (Gurugram,India) as **Android Developer**
 * **One year** experience in [Connect Internet Services](http://www.connectlabs.com){:target="_blank"} (Gurugram,India) as **Android Developer** _(2016-2017)_
 * **One year** intern in [IDRBT,Hyderabad](http://www.idrbt.ac.in){:target="_blank"} , **(Research Wing of Reserve Bank Of India)**
 
