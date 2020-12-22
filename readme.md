@@ -3,9 +3,11 @@ Hi , I am **Hem Chandra Joshi** . I am _**Machine Learning**_ enthuasist . Curre
  [Dr. Sandeep Kumar](https://sites.google.com/site/sandeepkumariitr002/home){:target="_blank"} 
 
 ![Hem Chandra Joshi](https://user-images.githubusercontent.com/26247353/94924201-b7533f80-04da-11eb-8acf-14ec7b2bcfc3.jpg)
+_**Picture Location:University Of Hyderabad**_
 
 # Blog
-[Machine Learning]( https://hem-chandra.github.io/ai-index.html){:target="_blank"} _**Picture Location:University Of Hyderabad**_
+[Machine Learning]( https://hem-chandra.github.io/ai-index.html){:target="_blank"}
+
 
 # Education
 * Ph.D. , [Pursuing , Indian Institute Of Technology Roorkee](https://iitr.ac.in){:target="_blank"} **(2020-present)**
