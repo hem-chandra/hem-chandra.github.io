@@ -41,7 +41,7 @@ _**Picture Location:University Of Hyderabad**_
 * Startup with Health Care Professionals [MedicalGyan.in](https://medicalgyan.in){:target="_blank"}
 * [YouTube Channel : Hem Chandra Live](https://youtube.com/c/hemchandralive){:target="_blank"}
 * Class Coordinator & Placement Coordinator Of M.Tech AI , University Of Hyderabad (2018-2020)
-* Host Quality Improvement Programme  “Recent Advancements in Software Development Practices, Artificial Intelligence and Communication Technologies: Digital India Perspectives" 2020 at IIT Roorkee.
+* Host  - Quality Improvement Programme  “Recent Advancements in Software Development Practices, Artificial Intelligence and Communication Technologies: Digital India Perspectives" 2020 at IIT Roorkee.
 
 # Contact
 * ![](https://img.icons8.com/clouds/1x/email.png) hc_joshi[at]cs[dot]iitr[dot]ac[dot]in
