@@ -5,7 +5,7 @@ Hi , I am **Hem Chandra Joshi** . I am _**Machine Learning**_ enthuasist . Curre
 ![Hem Chandra Joshi](https://user-images.githubusercontent.com/26247353/94924201-b7533f80-04da-11eb-8acf-14ec7b2bcfc3.jpg)
 
 # Blog
-[Machine Learning]( https://hem-chandra.github.io/ai-index.html){:target="_blank"}
+[Machine Learning]( https://hem-chandra.github.io/ai-index.html){:target="_blank"} _**Picture Location:University Of Hyderabad**_
 
 # Education
 * Ph.D. , [Pursuing , Indian Institute Of Technology Roorkee](https://iitr.ac.in){:target="_blank"} **(2020-present)**
@@ -29,7 +29,7 @@ Hi , I am **Hem Chandra Joshi** . I am _**Machine Learning**_ enthuasist . Curre
 
 # Industry Experience
 
-![IMG_4033 (1)](https://user-images.githubusercontent.com/26247353/102327481-cdd24880-3fab-11eb-91c7-1d58ef2798c1.jpg)
+![IMG_4033 (1)](https://user-images.githubusercontent.com/26247353/102327481-cdd24880-3fab-11eb-91c7-1d58ef2798c1.jpg) 
 
 * **One year** intern in [IDRBT,Hyderabad](http://www.idrbt.ac.in){:target="_blank"} , **(Research Wing of Reserve Bank Of India)**
 * **One year** experience in [Connect Internet Services](http://www.connectlabs.com){:target="_blank"} (Gurugram,India) as **Android Developer** _(2016-2017)_
