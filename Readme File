@@ -3,3 +3,6 @@ Name the pages with this format -> 2022-08-26-conv.md. [Date-TitleOfThePage.md] 
 
 index.html - this page is the front page.
 _config.yml - this page consists of important settings.
+
+_data/navigation.yml - consists of main links for index.html pages. 
+
