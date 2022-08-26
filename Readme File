@@ -2,3 +2,4 @@ To add pages go to _posts directory.
 Name the pages with this format -> 2022-08-26-conv.md. [Date-TitleOfThePage.md] It will pop automatically at the end of the front page.
 
 index.html - this page is the front page.
+_config.yml - this page consists of important settings.
