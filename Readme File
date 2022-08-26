@@ -6,3 +6,5 @@ _config.yml - this page consists of important settings.
 
 _data/navigation.yml - consists of main links for index.html pages. 
 
+hem-chandra.github.io/assets/css/main.scss - to change the URL link
+
