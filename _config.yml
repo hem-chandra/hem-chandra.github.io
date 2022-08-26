@@ -16,10 +16,10 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Manas Gaur"
+title                    : "Hem Chandra Joshi"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Manas Gaur"
+name                     : "Hem Chandra Joshi"
 description              : "Personal Website"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -93,30 +93,30 @@ analytics:
 
 # Site Author
 author:
-  name             : "Manas Gaur"
-  avatar           : "/images/manas.jpg"
-  bio              : "Assistant Professor, Department of CSEE, University of Maryland Baltimore County"
-  location         : "Maryland, US"
+  name             : "Hem Chandra Joshi"
+  avatar           : "/images/hem.jpg"
+  bio              : "Doctoral Student, Department of CSE, Indian Institute Of Technology Roorkee"
+  location         : "Roorkee, India"
   email            :
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: mailto:manas@umbc.edu
+      url: mailto:hc_joshi@cs.iitr.ac.in
     - label: "LinkedIn"
       icon: "fas fa-fw fa-linkedin-square"
-      url: "https://www.linkedin.com/in/manasgaur/"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/manasgaur90"
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
-      url: "https://www.facebook.com/kiml2020/"
+      url: "https://www.linkedin.com/in/hem-chandra-joshi-135a885a"
+#     - label: "Twitter"
+#       icon: "fab fa-fw fa-twitter-square"
+#       url: "https://twitter.com/"
+#     - label: "Facebook"
+#       icon: "fab fa-fw fa-facebook-square"
+#       url: "https://www.facebook.com/kiml2020/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/manasgaur"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/"
+      url: "https://github.com/hem-chandra"
+#     - label: "Instagram"
+#       icon: "fab fa-fw fa-instagram"
+#       # url: "https://instagram.com/"
 
 # Site Footer
 footer:
