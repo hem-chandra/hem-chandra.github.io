@@ -1,10 +1,7 @@
-To add pages go to _posts directory.
-Name the pages with this format -> 2022-08-26-conv.md. [Date-TitleOfThePage.md] It will pop automatically at the end of the front page.
-
-index.html - this page is the front page.
-_config.yml - this page consists of important settings.
-
-_data/navigation.yml - consists of main links for index.html pages. 
-
-hem-chandra.github.io/assets/css/main.scss - to change the URL link
-
+<ul>
+<li> To add pages go to _posts directory. Name the pages with this format -> 2022-08-26-conv.md. [Date-TitleOfThePage.md] It will pop automatically at the end of the front page.
+<li> index.html - Front Page
+<li> _config.yml - this page consists of important settings.
+<li> _data/navigation.yml - consists of main links for index.html pages. 
+<li> hem-chandra.github.io/assets/css/main.scss - to change the URL link
+</ul>
