@@ -4,12 +4,15 @@ permalink: /internships/
 author_profile: true
 ---
 
-1. Visiting Researcher, Alan Turing Institute, London UK
-    * Period: November 2021 - March 2022
-    * Project: Time-sensitive sensing of language and user-generated content
-    * Collaborators: [Maria Liakata](https://www.turing.ac.uk/people/researchers/maria-liakata), [Adam Tsakalidis](https://www.turing.ac.uk/people/researchers/adam-tsakalidis)
+1. Research Intern, Institute for Development and Research in Banking Technology (IDRBT) Hyderabad
+    * Period: July 2019 - June 2020
+    * Project: Highlight Creation With Massive Video Feeds
+    * Mentor: [Dr. Abhishek Thakur](https://www.idrbt.ac.in/dr-abhishek-k-thakur/)
 
-2. Research Science Intern, Samsung Research America, Mountain View, California
+
+
+
+<!-- 2. Research Science Intern, Samsung Research America, Mountain View, California
     * Period: May 2021 - September 2021
     * Project: ISEEQ: Information Seeking Question Generation using Dynamic Meta-Information Retrieval and Knowledge Graphs. (Preprint Soon)
     * Mentors: [Kalpa Gunaratna](https://kalpagunaratna.github.io/), [Vijay Srinivasan](https://sites.google.com/site/vijaysrini17/home), [Hongxia Jin](https://www.linkedin.com/in/hongxiajin/)
@@ -18,7 +21,6 @@ author_profile: true
     * Period: June 2020 - December 2020
     * Project: Knowledge-guided association between psychological impact and social distancing during COVID-19: A Twitter-based study (Under Review in AJPH)
     * Mentor: [Jyotishman Pathak](https://vivo.weill.cornell.edu/display/cwid-jyp2001)
-
 
 4. Research Scientist and Ph.D. Fellow, Dataminr Inc., New York 
     * Period: May 2019 - August 2019
@@ -51,4 +53,4 @@ author_profile: true
     * Period: September 2013 - October 2014
     * Advisor: [Vinod K. Panchal](https://www.researchgate.net/profile/Vinod-Panchal-2)
     * Project: Point of Interest detection in hyperspectral images using computational and evolutionary intelligence-
-based approaches.
+based approaches. -->
