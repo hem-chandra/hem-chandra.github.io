@@ -12,6 +12,6 @@ author_profile: true
 
 ## Workshops
 <ul>
-  <li><b>Hem Chandra Joshi</b>, Utkarsh Yadav, Biplav Srivastava, and Ram Manohar Singh. "Learning About People’s Attitude Towards Food Available in India and Its Implications for Fair AI-based Systems." Accepted in ICDM workshop on personalization 2022. <a href="https://ieeexplore.ieee.org/document/10031102">Link</a></li>
+  <li><b>H. C. Joshi</b>, U. Yadav, B. Srivastava and R. M. Singh, "Learning About People's Attitude Towards Food Available in India and Its Implications for Fair AI-based Systems," 2022 IEEE International Conference on Data Mining Workshops (ICDMW), Orlando, FL, USA, 2022, pp. 985-992, doi: 10.1109/ICDMW58026.2022.00128. <a href="https://ieeexplore.ieee.org/document/10031102">Link</a></li>
 </ul>
 ---
