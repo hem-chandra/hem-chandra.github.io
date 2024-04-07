@@ -7,3 +7,5 @@ In the present day, you may have encountered terms like machine learning(ML), co
 </div>
 
 <b>In the next section, we will learn about - What is Machine Learning?</b>
+
+%https://hai.stanford.edu/sites/default/files/2020-09/AI-Definitions-HAI.pdf
