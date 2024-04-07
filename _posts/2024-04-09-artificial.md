@@ -1,3 +1,6 @@
+
+# AI in 100 Words
+
 In the last two decades, we have been using Artificial Intelligence (AI) in various corners of our lives, from smartwatches to space programs. Today *AI has permeated our daily lives, and we are very near to completely relying on it*. What is AI? There is no universal definition of it. However, emeritus Stanford Prof. John McCarthy, who coined the term AI in 1955, defined it as <b>"science and engineering of making intelligent machines”</b>.
 
 In the present day, you may have encountered terms like machine learning(ML), computer vision(CV), deep learning(DL), natural language processing(NLP), etc. These terms are just part of AI; they encompass AI components. The relation between AI, ML, and DL is shown in the below figure.
