@@ -5,7 +5,7 @@ author_profile: true
 ---
 
 * UGC-NET Junior Research Fellow Scholarship
-* M.Tech. Graduate Aptitude Test in Engineering Scholarship, India
+* Graduate Aptitude Test in Engineering Scholarship, India
 
 <!-- * Nominated for University of South Carolina Breakthrough Award from Department of Computer Science and Engineering
 * Turing Fellowship at Alan Turing Institute under EPSRC UKRI grant
