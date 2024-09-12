@@ -6,8 +6,13 @@ author_profile: true
 ## Journals
 
 <div style="margin-top: -11px;">
- 
-  <!-- Eye-catching title above the image -->
+
+<!------------------------------------------------------------>
+<!---------------copy below block for each paper-------------->
+<!------------------------------------------------------------>
+
+
+  <!-- Eye-catching title above the image-->
 <h2 style="text-align: left; font-size: 28px; color: #333; font-weight: bold; margin-bottom: 0px;">
   Remote Work and Gender Inequality: Unmasking the Challenges and Seeking Solutions 
   <span style="background-color: #f0f8ff; padding: 0px 5px; border-radius: 3px; font-weight: bold; color: #007bff;">
@@ -28,7 +33,7 @@ author_profile: true
 <div style="text-align: center; margin-top: 20px;">
   <a href="https://ieeexplore.ieee.org/abstract/document/10325528" target="_blank" style="text-decoration: none;">
     <button style="padding: 10px 20px; background-color: #007bff; color: white; border: 2px solid #007bff; border-radius: 5px; cursor: pointer; margin-right: 10px;">
-      arXiv
+      Paper Link
     </button>
   </a>
   
@@ -45,29 +50,13 @@ author_profile: true
   </a>
 </div>
 
---?
+-->
+<hr style="margin-top: 20px; border: 1px solid #ccc;">
 
-<!-- Citation Block -->
-<div style="border: 1px solid #ccc; padding: 10px; border-radius: 5px; background-color: #f9f9f9; max-width: 600px; margin: 20px auto;">
-  <h3 style="text-align: center;">Citation</h3>
-  <textarea id="citation" style="width: 100%; height: 80px; border: 1px solid #ddd; border-radius: 5px; padding: 10px;" readonly>
-H. C. Joshi and S. Kumar, "Remote Work and Gender Inequality: Unmasking the Challenges and Seeking Solutions," IEEE Internet Computing, vol. 28, no. 1, pp. 42-51, Jan.-Feb. 2024, doi: 10.1109/MIC.2023.3335614.
-  </textarea>
-  <button onclick="copyCitation()" style="display: block; width: 100%; padding: 10px; background-color: #007bff; color: white; border: none; border-radius: 5px; cursor: pointer; margin-top: 10px;">
-    Copy Citation
-  </button>
-</div>
+<!------------------------------------------------>
+<!----------------------Block Over---------------->
+<!------------------------------------------------>
 
-<script>
-function copyCitation() {
-  var citationText = document.getElementById('citation');
-  citationText.select();
-  document.execCommand('copy');
-  alert('Citation copied to clipboard!');
-}
-</script>
-
-</div>
 
 ## Conferences
 
