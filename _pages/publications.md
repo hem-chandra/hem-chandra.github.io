@@ -21,9 +21,9 @@ Artificial Intelligence Failures in Autonomous Vehicles: Causes, Implications, a
  <img src="https://raw.githubusercontent.com/hem-chandra/hem-chandra.github.io/master/images/ai_failure_figure.png" 
      alt="ai_failure_figure" 
      style="width: 50%; height: auto; float: left; margin-right: 5px; border: 2px solid #ccc; padding: 15px; border-radius: 1px;">
-  
+
   <!-- Description -->
-  <p style="margin-top: 5px;">
+  <p style="margin-top: 5px;font-size: 16px;">
     We comprehensively explore the causes of artificial intelligence failures in autonomous vehicles and their implications, proposing strategies and technological solutions to prevent these failures. We also outline key research directions for future research and offer actionable recommendations for researchers, policymakers, and industry professionals.
   </p>
 
