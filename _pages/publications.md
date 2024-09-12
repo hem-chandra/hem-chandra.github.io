@@ -7,11 +7,11 @@ author_profile: true
 
 <div style="margin-top: 20px;">
   <!-- Thumbnail Image -->
-  <img src="thumbnail.jpg" alt="Remote Work and Gender Inequality" style="width: 150px; height: auto; float: left; margin-right: 20px;">
+  <img src="[thumbnail.jpg](https://github.com/hem-chandra/hem-chandra.github.io/blob/master/images/Remote-Work-Barrier%20and%20Challenges.png)" alt="Remote Work and Gender Inequality" style="width: 150px; height: auto; float: left; margin-right: 20px;">
   
   <!-- Description -->
   <p style="margin-top: 0;">
-    This paper explores the challenges of remote work, particularly its impact on gender inequality. It discusses solutions to address these issues while providing insights for future improvements in workplace inclusivity.
+    In this study, we collect important insights about recent research focusing on the impact of Remote Work (RW), particularly accentuated by the COVID-19 pandemic, on gender equality and highlight the barriers and challenges women face due to it. By analyzing insights gleaned from recent literature, we propose strategies and discuss the potential artificial intelligence (AI) based solutions to address and overcome them. Furthermore, we also outline potential avenues for future research.
   </p>
 
   <a href="https://arxiv.org" target="_blank" style="text-decoration: none;">
