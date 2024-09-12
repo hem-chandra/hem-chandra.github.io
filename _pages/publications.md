@@ -7,7 +7,7 @@ author_profile: true
 
 <div style="margin-top: 20px;">
   <!-- Thumbnail Image -->
-  <img src="https://github.com/hem-chandra/hem-chandra.github.io/blob/master/images/Remote-Work-Barrier%20and%20Challenges.png" alt="Remote Work and Gender Inequality" style="width: auto; height: auto; float: left; margin-right: 20px;">
+  <img src="https://github.com/hem-chandra/hem-chandra.github.io/blob/master/images/Remote-Work-Barrier%20and%20Challenges.png" alt="Remote Work and Gender Inequality" style="width: 300px; height: auto; float: left; margin-right: 5px; border: 2px solid #ccc; padding: 5px; border-radius: 5px;">
   
   <!-- Description -->
   <p style="margin-top: 0;">
