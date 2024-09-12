@@ -69,7 +69,7 @@ author_profile: true
   </p>
 
 <div style="text-align: center; margin-top: 5px;">
-  <a href="[https://ieeexplore.ieee.org/abstract/document/10325528](https://ieeexplore.ieee.org/document/10031102)" target="_blank" style="text-decoration: none;">
+  <a href="https://ieeexplore.ieee.org/document/10031102" target="_blank" style="text-decoration: none;">
     <button style="padding: 10px 10px; background-color: #007bff; color: white; border: 1px solid #007bff; border-radius: 5px; cursor: pointer; margin-right: 10px;">  
       Paper Link
     </button>
