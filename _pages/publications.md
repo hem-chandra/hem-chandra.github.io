@@ -9,7 +9,7 @@ author_profile: true
   <li><b>H. C. Joshi</b> and S. Kumar, <b>"Remote Work and Gender Inequality: Unmasking the Challenges and Seeking Solutions,"</b> in IEEE Internet Computing, vol. 28, no. 1, pp. 42-51, Jan.-Feb. 2024, doi: 10.1109/MIC.2023.3335614. <b><u>Q1 Journal, Impact Factor: 3.2</u></b></li>
 </ul>
 
-<div style="margin-top: 20px;">
+<div style="margin-top: 1px;">
   <a href="https://arxiv.org" target="_blank" style="text-decoration: none;">
     <button style="padding: 10px 20px; background-color: #007bff; color: white; border: 2px solid #007bff; border-radius: 5px; cursor: pointer;">arXiv</button>
   </a>
@@ -22,7 +22,8 @@ author_profile: true
     <button style="padding: 10px 20px; background-color: #dc3545; color: white; border: 2px solid #dc3545; border-radius: 5px; cursor: pointer;">Paper</button>
   </a>
 
-  <hr>
+  <hr style="margin-top: 20px; border: 1px solid #ccc;">
+  
 </div> 
 
 
