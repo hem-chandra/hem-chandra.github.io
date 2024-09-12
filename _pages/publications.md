@@ -96,7 +96,7 @@ Artificial Intelligence Failures in Autonomous Vehicles: Causes, Implications, a
 <h2 style="text-align: left; font-size: 24px; color: #333; margin-bottom: 0px;">
   Learning About People’s Attitude Towards Food Available in India and Its Implications for Fair AI-based Systems
   <span style="background-color: #f0f8ff; padding: 0px 5px; border-radius: 3px; color: #007bff;">
-    in IEEE IDCM Workshop (A* Workshop)
+    in IEEE ICDM Workshop (A* Workshop)
   </span>
 </h2>
 
