@@ -27,7 +27,7 @@ Artificial Intelligence Failures in Autonomous Vehicles: Causes, Implications, a
     We comprehensively explore the causes of artificial intelligence failures in autonomous vehicles and their implications, proposing strategies and technological solutions to prevent these failures. We also outline key research directions for future research and offer actionable recommendations for researchers, policymakers, and industry professionals.
   </p>
 
-<div style="text-align: center; margin-top: 5px;">
+<div style="text-align: center; margin-top: 0px;">
   <a href="Soon Available" target="_blank" style="text-decoration: none;">
     <button style="padding: 10px 10px; background-color: #007bff; color: white; border: 1px solid #007bff; border-radius: 5px; cursor: pointer; margin-right: 10px;">  
       Paper Link
@@ -66,7 +66,7 @@ Artificial Intelligence Failures in Autonomous Vehicles: Causes, Implications, a
     In this study, we collect important insights about recent research focusing on the impact of Remote Work (RW), particularly accentuated by the COVID-19 pandemic, on gender equality and highlight the barriers and challenges women face due to it. By analyzing insights gleaned from recent literature, we propose strategies and discuss the potential artificial intelligence (AI) based solutions to address and overcome them. Furthermore, we also outline potential avenues for future research.
   </p>
 
-<div style="text-align: center; margin-top: 5px;">
+<div style="text-align: center; margin-top: 0px;">
   <a href="https://ieeexplore.ieee.org/abstract/document/10325528" target="_blank" style="text-decoration: none;">
     <button style="padding: 10px 10px; background-color: #007bff; color: white; border: 1px solid #007bff; border-radius: 5px; cursor: pointer; margin-right: 10px;">  
       Paper Link
@@ -110,7 +110,7 @@ Artificial Intelligence Failures in Autonomous Vehicles: Causes, Implications, a
     In this paper, we want to understand people's perception towards food with respect to their background, and use this as the context to evaluate food-based AI systems in future. Therefore, we conduct the first-of-its-kind survey on perception about food available in India at educational institutes from participants who may associate themselves with different regions within and outside India. 
   </p>
 
-<div style="text-align: center; margin-top: 5px;">
+<div style="text-align: center; margin-top: 0px;">
   <a href="https://ieeexplore.ieee.org/document/10031102" target="_blank" style="text-decoration: none;">
     <button style="padding: 10px 10px; background-color: #007bff; color: white; border: 1px solid #007bff; border-radius: 5px; cursor: pointer; margin-right: 10px;">  
       Paper Link
