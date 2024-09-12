@@ -6,7 +6,13 @@ author_profile: true
 ## Journals
 
 <div style="margin-top: 1px;">
-  <!-- Thumbnail Image -->
+ 
+  <!-- Eye-catching title above the image -->
+<h2 style="text-align: center; font-size: 28px; color: #333; font-weight: bold; margin-bottom: 20px;">
+  Remote Work and Gender Inequality: Unmasking the Challenges and Seeking Solutions
+</h2>
+
+ <!-- Thumbnail Image -->
  <img src="https://raw.githubusercontent.com/hem-chandra/hem-chandra.github.io/master/images/remote_work_barrier.png" 
      alt="Remote Work and Gender Inequality" 
      style="width: 100%; height: auto; float: left; margin-right: 5px; border: 2px solid #ccc; padding: 5px; border-radius: 5px;">
@@ -16,20 +22,22 @@ author_profile: true
     In this study, we collect important insights about recent research focusing on the impact of Remote Work (RW), particularly accentuated by the COVID-19 pandemic, on gender equality and highlight the barriers and challenges women face due to it. By analyzing insights gleaned from recent literature, we propose strategies and discuss the potential artificial intelligence (AI) based solutions to address and overcome them. Furthermore, we also outline potential avenues for future research.
   </p>
 
+ <div style="text-align: center; margin-top: 20px;">
   <a href="https://arxiv.org" target="_blank" style="text-decoration: none;">
     <button style="padding: 10px 20px; background-color: #007bff; color: white; border: 2px solid #007bff; border-radius: 5px; cursor: pointer;">arXiv</button>
   </a>
   
-  <a href="https://github.com" target="_blank" style="text-decoration: none; margin-left: 10px;">
-    <button style="padding: 10px 20px; background-color: #28a745; color: white; border: 2px solid #28a745; border-radius: 5px; cursor: pointer;">Code</button>
+  <a href="https://arxiv.org" target="_blank" style="text-decoration: none;">
+    <button style="padding: 10px 20px; background-color: #007bff; color: white; border: 2px solid #007bff; border-radius: 5px; cursor: pointer;">arXiv</button>
+  </a>
+
+  <a href="https://arxiv.org" target="_blank" style="text-decoration: none;">
+    <button style="padding: 10px 20px; background-color: #007bff; color: white; border: 2px solid #007bff; border-radius: 5px; cursor: pointer;">arXiv</button>
   </a>
   
-  <a href="https://ieeexplore.ieee.org" target="_blank" style="text-decoration: none; margin-left: 10px;">
-    <button style="padding: 10px 20px; background-color: #dc3545; color: white; border: 2px solid #dc3545; border-radius: 5px; cursor: pointer;">Paper</button>
-  </a>
-</div> 
+  </div> 
 
-
+<!---------------------------------------------------------First Paper Over--------------------------------------------------------!>
 
 ## Conferences
 
