@@ -10,7 +10,7 @@ author_profile: true
   <!-- Eye-catching title above the image -->
 <h2 style="text-align: left; font-size: 28px; color: #333; font-weight: bold; margin-bottom: 0px;">
   Remote Work and Gender Inequality: Unmasking the Challenges and Seeking Solutions 
-  <span style="background-color: #f0f8ff; padding: 0 5px; border-radius: 3px; font-weight: bold; color: #007bff;">
+  <span style="background-color: #f0f8ff; padding: 0px 5px; border-radius: 3px; font-weight: bold; color: #007bff;">
     in IEEE Internet Computing (Q1 Journal, Impact Factor 3.7 (2024))
   </span>
 </h2>
@@ -18,7 +18,7 @@ author_profile: true
  <!-- Thumbnail Image -->
  <img src="https://raw.githubusercontent.com/hem-chandra/hem-chandra.github.io/master/images/remote_work_barrier.png" 
      alt="Remote Work and Gender Inequality" 
-     style="width: 50%; height: auto; float: left; margin-right: 0px; border: 2px solid #ccc; padding: 15px; border-radius: 1px;">
+     style="width: 50%; height: auto; float: left; margin-right: 5px; border: 2px solid #ccc; padding: 15px; border-radius: 1px;">
   
   <!-- Description -->
   <p style="margin-top: 5px;">
