@@ -23,7 +23,7 @@ Artificial Intelligence Failures in Autonomous Vehicles: Causes, Implications, a
      style="width: 50%; height: auto; float: left; margin-right: 5px; border: 2px solid #ccc; padding: 15px; border-radius: 1px;">
 
   <!-- Description -->
-  <p style="margin-top: 5px;font-size: 16px;">
+  <p style="font-size: 16px;text-align: justify;">
     We comprehensively explore the causes of artificial intelligence failures in autonomous vehicles and their implications, proposing strategies and technological solutions to prevent these failures. We also outline key research directions for future research and offer actionable recommendations for researchers, policymakers, and industry professionals.
   </p>
 
@@ -62,7 +62,7 @@ Artificial Intelligence Failures in Autonomous Vehicles: Causes, Implications, a
      style="width: 50%; height: auto; float: left; margin-right: 5px; border: 2px solid #ccc; padding: 15px; border-radius: 1px;">
   
   <!-- Description -->
-  <p style="margin-top: 5px;">
+  <p style="font-size: 16px;text-align: justify;">
     In this study, we collect important insights about recent research focusing on the impact of Remote Work (RW), particularly accentuated by the COVID-19 pandemic, on gender equality and highlight the barriers and challenges women face due to it. By analyzing insights gleaned from recent literature, we propose strategies and discuss the potential artificial intelligence (AI) based solutions to address and overcome them. Furthermore, we also outline potential avenues for future research.
   </p>
 
@@ -106,7 +106,7 @@ Artificial Intelligence Failures in Autonomous Vehicles: Causes, Implications, a
      style="width: 50%; height: auto; float: left; margin-right: 5px; border: 2px solid #ccc; padding: 15px; border-radius: 1px;">
   
   <!-- Description -->
-  <p style="margin-top: 5px;">
+  <p style="font-size: 16px;text-align: justify;">
     In this paper, we want to understand people's perception towards food with respect to their background, and use this as the context to evaluate food-based AI systems in future. Therefore, we conduct the first-of-its-kind survey on perception about food available in India at educational institutes from participants who may associate themselves with different regions within and outside India. 
   </p>
 
