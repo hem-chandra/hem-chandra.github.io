@@ -9,7 +9,10 @@ author_profile: true
  
   <!-- Eye-catching title above the image -->
 <h2 style="text-align: left; font-size: 28px; color: #333; font-weight: bold; margin-bottom: 0px;">
-  Remote Work and Gender Inequality: Unmasking the Challenges and Seeking Solutions
+  Remote Work and Gender Inequality: Unmasking the Challenges and Seeking Solutions 
+  <span style="background-color: #f0f8ff; padding: 0 5px; border-radius: 3px; font-weight: bold; color: #007bff;">
+    in IEEE Internet Computing (Q1 Journal, Impact Factor 3.7 (2024))
+  </span>
 </h2>
 
  <!-- Thumbnail Image -->
