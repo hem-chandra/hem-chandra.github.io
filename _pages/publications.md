@@ -36,7 +36,10 @@ author_profile: true
     </button>
   </a>
 
-<hr style="margin-top: 20px; border: 1px solid #ccc;">
+  <hr style="margin-top: 20px; border: 1px solid #ccc;">
+
+</div>
+</div>
 
 <!------------------------------------------------>
 <!----------------------Block Over---------------->
