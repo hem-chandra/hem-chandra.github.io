@@ -21,7 +21,10 @@ author_profile: true
   <a href="https://ieeexplore.ieee.org" target="_blank" style="text-decoration: none; margin-left: 10px;">
     <button style="padding: 10px 20px; background-color: #dc3545; color: white; border: 2px solid #dc3545; border-radius: 5px; cursor: pointer;">Paper</button>
   </a>
+
+  <hr>
 </div> 
+
 
 
 ## Conferences
