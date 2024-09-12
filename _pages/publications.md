@@ -11,11 +11,10 @@ author_profile: true
 <!---------------copy below block for each paper-------------->
 <!------------------------------------------------------------>
 
-
   <!-- Eye-catching title above the image-->
-<h2 style="text-align: left; font-size: 28px; color: #333; font-weight: bold; margin-bottom: 0px;">
+<h2 style="text-align: left; font-size: 28px; color: #333; margin-bottom: 0px;">
   Remote Work and Gender Inequality: Unmasking the Challenges and Seeking Solutions 
-  <span style="background-color: #f0f8ff; padding: 0px 5px; border-radius: 3px; font-weight: bold; color: #007bff;">
+  <span style="background-color: #f0f8ff; padding: 0px 5px; border-radius: 3px; color: #007bff;">
     in IEEE Internet Computing (Q1 Journal, Impact Factor 3.7 (2024))
   </span>
 </h2>
@@ -32,25 +31,11 @@ author_profile: true
 
 <div style="text-align: center; margin-top: 20px;">
   <a href="https://ieeexplore.ieee.org/abstract/document/10325528" target="_blank" style="text-decoration: none;">
-    <button style="padding: 10px 20px; background-color: #007bff; color: white; border: 2px solid #007bff; border-radius: 5px; cursor: pointer; margin-right: 10px;">
+    <button style="padding: 10px 20px; background-color: #007bff; color: white; border: 2px solid #007bff; border-radius: 5px; cursor: pointer; margin-right: 10px;">  
       Paper Link
     </button>
   </a>
-  
- <!-- <a href="https://github.com" target="_blank" style="text-decoration: none;">
-    <button style="padding: 10px 20px; background-color: #28a745; color: white; border: 2px solid #28a745; border-radius: 5px; cursor: pointer; margin-right: 10px;">
-      Code
-    </button>
-  </a>
 
-  <a href="https://ieeexplore.ieee.org" target="_blank" style="text-decoration: none;">
-    <button style="padding: 10px 20px; background-color: #dc3545; color: white; border: 2px solid #dc3545; border-radius: 5px; cursor: pointer;">
-      Paper
-    </button>
-  </a>
-</div>
-
--->
 <hr style="margin-top: 20px; border: 1px solid #ccc;">
 
 <!------------------------------------------------>
