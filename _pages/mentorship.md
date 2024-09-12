@@ -1,7 +1,7 @@
 ---
 title: "Team"
 permalink: /mentorship/
-author_profile: true
+author_profile: false
 ---
 
 
