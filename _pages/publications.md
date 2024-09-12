@@ -42,6 +42,25 @@ author_profile: true
   </a>
 </div>
 
+<!-- Citation Block -->
+<div style="border: 1px solid #ccc; padding: 10px; border-radius: 5px; background-color: #f9f9f9; max-width: 600px; margin: 20px auto;">
+  <h3 style="text-align: center;">Citation</h3>
+  <textarea id="citation" style="width: 100%; height: 80px; border: 1px solid #ddd; border-radius: 5px; padding: 10px;" readonly>
+H. C. Joshi and S. Kumar, "Remote Work and Gender Inequality: Unmasking the Challenges and Seeking Solutions," IEEE Internet Computing, vol. 28, no. 1, pp. 42-51, Jan.-Feb. 2024, doi: 10.1109/MIC.2023.3335614.
+  </textarea>
+  <button onclick="copyCitation()" style="display: block; width: 100%; padding: 10px; background-color: #007bff; color: white; border: none; border-radius: 5px; cursor: pointer; margin-top: 10px;">
+    Copy Citation
+  </button>
+</div>
+
+<script>
+function copyCitation() {
+  var citationText = document.getElementById('citation');
+  citationText.select();
+  document.execCommand('copy');
+  alert('Citation copied to clipboard!');
+}
+</script>
 
 ## Conferences
 
