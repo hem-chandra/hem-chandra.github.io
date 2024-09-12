@@ -15,10 +15,10 @@ author_profile: true
  <!-- Thumbnail Image -->
  <img src="https://raw.githubusercontent.com/hem-chandra/hem-chandra.github.io/master/images/remote_work_barrier.png" 
      alt="Remote Work and Gender Inequality" 
-     style="width: 100%; height: auto; float: left; margin-right: 3px; border: 2px solid #ccc; padding: 5px; border-radius: 2px;">
+     style="width: 100%; height: auto; float: left; margin-right: 0px; border: 2px solid #ccc; padding: 15px; border-radius: 1px;">
   
   <!-- Description -->
-  <p style="margin-top: 0;">
+  <p style="margin-top: 5px;">
     In this study, we collect important insights about recent research focusing on the impact of Remote Work (RW), particularly accentuated by the COVID-19 pandemic, on gender equality and highlight the barriers and challenges women face due to it. By analyzing insights gleaned from recent literature, we propose strategies and discuss the potential artificial intelligence (AI) based solutions to address and overcome them. Furthermore, we also outline potential avenues for future research.
   </p>
 
