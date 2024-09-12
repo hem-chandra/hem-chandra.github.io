@@ -10,7 +10,7 @@ author_profile: true
 <!------------------------------------------------------------>
 
   <!-- Eye-catching title above the image-->
-<h2 style="text-align: left; font-size: 28px; color: #333; margin-bottom: 0px;">
+<h2 style="text-align: left; font-size: 20px; color: #333; margin-bottom: 0px;">
 Artificial Intelligence Failures in Autonomous Vehicles: Causes, Implications, and Prevention 
   <span style="background-color: #f0f8ff; padding: 0px 5px; border-radius: 3px; color: #007bff;">
     in IEEE Computer (Q1 Journal, Impact Factor 2.0 (2024))
