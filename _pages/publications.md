@@ -29,9 +29,9 @@ author_profile: true
     In this study, we collect important insights about recent research focusing on the impact of Remote Work (RW), particularly accentuated by the COVID-19 pandemic, on gender equality and highlight the barriers and challenges women face due to it. By analyzing insights gleaned from recent literature, we propose strategies and discuss the potential artificial intelligence (AI) based solutions to address and overcome them. Furthermore, we also outline potential avenues for future research.
   </p>
 
-<div style="text-align: center; margin-top: 20px;">
+<div style="text-align: center; margin-top: 5px;">
   <a href="https://ieeexplore.ieee.org/abstract/document/10325528" target="_blank" style="text-decoration: none;">
-    <button style="padding: 10px 20px; background-color: #007bff; color: white; border: 2px solid #007bff; border-radius: 5px; cursor: pointer; margin-right: 10px;">  
+    <button style="padding: 10px 10px; background-color: #007bff; color: white; border: 1px solid #007bff; border-radius: 5px; cursor: pointer; margin-right: 10px;">  
       Paper Link
     </button>
   </a>
