@@ -99,12 +99,12 @@ author:
   location         : "Roorkee, India"
   email            :
   links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      url: mailto:hc_joshi@cs.iitr.ac.in
-    - label: "LinkedIn"
-      icon: "fas fa-fw fa-linkedin-square"
-      url: "https://www.linkedin.com/in/hem-chandra-joshi-135a885a"
+    # - label: "Email"
+    #   icon: "fas fa-fw fa-envelope-square"
+    #   url: mailto:hc_joshi@cs.iitr.ac.in
+    # - label: "LinkedIn"
+    #   icon: "fas fa-fw fa-linkedin-square"
+    #   url: "https://www.linkedin.com/in/hem-chandra-joshi-135a885a"
 #     - label: "Twitter"
 #       icon: "fab fa-fw fa-twitter-square"
 #       url: "https://twitter.com/"
