@@ -11,17 +11,17 @@ author_profile: true
 
 <div style="margin-top: 20px;">
   <a href="https://arxiv.org" target="_blank" style="text-decoration: none;">
-    <button style="padding: 10px 20px; background-color: #007bff; color: white; border: none; border-radius: 5px; cursor: pointer;">arXiv</button>
+    <button style="padding: 10px 20px; background-color: #007bff; color: white; border: 2px solid #007bff; border-radius: 5px; cursor: pointer;">arXiv</button>
   </a>
   
   <a href="https://github.com" target="_blank" style="text-decoration: none; margin-left: 10px;">
-    <button style="padding: 10px 20px; background-color: #28a745; color: white; border: none; border-radius: 5px; cursor: pointer;">Code</button>
+    <button style="padding: 10px 20px; background-color: #28a745; color: white; border: 2px solid #28a745; border-radius: 5px; cursor: pointer;">Code</button>
   </a>
   
   <a href="https://ieeexplore.ieee.org" target="_blank" style="text-decoration: none; margin-left: 10px;">
-    <button style="padding: 10px 20px; background-color: #dc3545; color: white; border: none; border-radius: 5px; cursor: pointer;">Paper</button>
+    <button style="padding: 10px 20px; background-color: #dc3545; color: white; border: 2px solid #dc3545; border-radius: 5px; cursor: pointer;">Paper</button>
   </a>
-</div>
+</div> 
 
 
 ## Conferences
