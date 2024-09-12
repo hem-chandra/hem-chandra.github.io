@@ -5,9 +5,11 @@ author_profile: true
 ---
 ## Journals
 
-<div style="margin-top: 20px;">
+<div style="margin-top: 1px;">
   <!-- Thumbnail Image -->
-  <img src="[https://github.com/hem-chandra/hem-chandra.github.io/blob/master/images/Remote-Work-Barrier%20and%20Challenges.png](https://github.com/hem-chandra/hem-chandra.github.io/blob/master/images/remote_work_barrier.png)" alt="Remote Work and Gender Inequality" style="width: 300px; height: auto; float: left; margin-right: 5px; border: 2px solid #ccc; padding: 5px; border-radius: 5px;">
+ <img src="https://raw.githubusercontent.com/hem-chandra/hem-chandra.github.io/master/images/remote_work_barrier.png" 
+     alt="Remote Work and Gender Inequality" 
+     style="width: 300px; height: auto; float: left; margin-right: 5px; border: 2px solid #ccc; padding: 5px; border-radius: 5px;">
   
   <!-- Description -->
   <p style="margin-top: 0;">
