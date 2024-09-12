@@ -65,6 +65,8 @@ function copyCitation() {
 }
 </script>
 
+</div>
+
 ## Conferences
 
 ## Workshops
