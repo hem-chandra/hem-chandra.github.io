@@ -8,6 +8,9 @@ author_profile: true
   <li><b>H. C. Joshi</b> and S. Kumar, <b>"Remote Work and Gender Inequality: Unmasking the Challenges and Seeking Solutions,"</b> in IEEE Internet Computing, vol. 28, no. 1, pp. 42-51, Jan.-Feb. 2024, doi: 10.1109/MIC.2023.3335614. <b><u>Q1 Journal, Impact Factor: 3.2</u></b></li> 
 </ul>
 
+HI.
+
+
 ## Conferences
 
 ## Workshops
