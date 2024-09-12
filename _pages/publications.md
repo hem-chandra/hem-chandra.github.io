@@ -84,13 +84,8 @@ author_profile: true
   <hr style="margin-top: 20px; border: 1px solid #ccc;">
 
 </div>
-</div>
 
 <!------------------------------------------------>
 <!----------------------Block Over---------------->
 <!------------------------------------------------>
 
-<ul>
-  <li><b>H. C. Joshi</b>, U. Yadav, B. Srivastava and R. M. Singh,<b>"Learning About People's Attitude Towards Food Available in India and Its Implications for Fair AI-based Systems,"</b> 2022 IEEE International Conference on Data Mining Workshops (ICDMW), Orlando, FL, USA, 2022, pp. 985-992, doi: 10.1109/ICDMW58026.2022.00128. <b><u>A* Workshop</u></b></li>
-</ul>
----
