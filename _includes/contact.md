@@ -1,9 +1,9 @@
 <h2 style="margin: 60px 0px 10px;">Contact</h2>
 
-<p><strong>Mailing Address:</strong> <a href="https://maps.app.goo.gl/xvHRWG27wSZXQ1Cv7">614 E. Daniel St., MC-314, Champaign, IL 61820-7999</a>
+614 E. Daniel St. MC-314
 <br />
-<strong>Office Location:</strong> Room 5125
+Champaign, IL 61820-7999
 <br />
-<strong>Email:</strong> <email>lyy (at) illinois.edu</email>
+Phone: <a href="tel:+12173009010">217-300-0910</a>
 <br />
-<strong>Phone:</strong> (217) 300-0910</p>
+Office: <a href="https://maps.app.goo.gl/xvHRWG27wSZXQ1Cv7">5125</a>
