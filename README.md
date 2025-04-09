@@ -19,6 +19,10 @@ bundle exec jekyll server
 View the live page using `localhost`:
 <http://localhost:4000>. You can get the html files in the `_site` folder.
 
+### Using the HTML version
+
+The compiled HTML files are available in the `html_source_file` folder. If you don't like Jekyll, you may directly edit and use the HTML version.
+
 ### Google Scholar Crawler
 
 The instructions for the Google Scholar crawler can be found in [this repository](https://github.com/RayeRen/acad-homepage.github.io).
