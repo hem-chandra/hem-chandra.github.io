@@ -21,7 +21,7 @@ View the live page using `localhost`:
 
 ### Using the HTML version
 
-The compiled HTML files are available in the `html_source_file` folder. If you don't like Jekyll, you may directly edit and use the HTML version.
+The compiled HTML files are available in the [`html_source_file`](https://github.com/yaoyao-liu/homepage/tree/main/html_source_file) folder. If you don't like Jekyll, you may directly edit and use the HTML version.
 
 ### Google Scholar Crawler
 
