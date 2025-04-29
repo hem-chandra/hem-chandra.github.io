@@ -27,6 +27,9 @@ google_scholar: https://scholar.google.com/citations?user=CUASp0gAAAAJ&hl=en&oi=
 # Images 
 avatar: ./assets/img/hem.jpeg
 
+remote_theme: yaoyao-liu/minimal-light
+
+
 # Footnotes
 footnote: Feel free to use my website's source code.
 footnote_link: https://github.com/yaoyao-liu/minimal-light
