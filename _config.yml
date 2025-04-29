@@ -2,44 +2,40 @@
 title: Hem Chandra Joshi
 position: Research Scholar
 affiliation: Indian Institute of Technology Roorkee
-#affiliation_link: https://www.iitr.ac.in/
 affiliation_logo: ./assets/img/IIT_Roorkee.svg
 email: hc_joshi(at)cs.iitr.ac.in
 
-# Search Engine Optimization (SEO)
-keywords: hem chandra joshi
-canonical: 
-description: Hem Chanda Joshi is a research scholar at Indian Institute of Technology Roorkee, India. His research lies in Fairness, Accountability, Transparent and Explainability in AI.
-
-# The option is used to enable the Illinois template.
-enable_hopkins_logo: true
-
-# The option is used to show the last update time.
-enable_last_update: false
-
-# Links
-link_type: icon #text/icon
-google_scholar: https://scholar.google.com/citations?user=CUASp0gAAAAJ&hl=en&oi=ao
-# github_link: https://github.com/yaoyao-liu/
-# linkedin: https://www.linkedin.com/in/liuyaoyao/
-# twitter: https://twitter.com/YaoyaoLiu1/
-
-# Images 
-avatar: ./assets/img/hem.jpeg
+# Site Information
+url: "https://hem-chandra.github.io"
+baseurl: "/hem-chandra.github.io"   # Required for project pages
 
 remote_theme: yaoyao-liu/minimal-light
 
+# SEO
+keywords: hem chandra joshi
+description: Hem Chandra Joshi is a research scholar at Indian Institute of Technology Roorkee, India. His research lies in Fairness, Accountability, Transparency, and Explainability in AI.
 
-# Footnotes
+# Appearance
+avatar: ./assets/img/hem.jpeg
+enable_hopkins_logo: true
+enable_last_update: false
+
+# Link Settings
+link_type: icon
+google_scholar: https://scholar.google.com/citations?user=CUASp0gAAAAJ&hl=en&oi=ao
+# github_link: https://github.com/hem-chandra/
+# linkedin: https://www.linkedin.com/in/yourprofile/
+# twitter: https://twitter.com/yourhandle/
+
+# Plugins (required for local builds with remote theme)
+plugins:
+  - jekyll-remote-theme
+
+# Footer
 footnote: Feel free to use my website's source code.
 footnote_link: https://github.com/yaoyao-liu/minimal-light
 
-# Analytics
-# Please remove the following lines about analytics services if you fork my project. 
-# Otherwise, the analytics information of your website will be recorded to my ClustrMaps accounts.
-# clustrmaps_id: HV0rAUdAxpfEQLOsVs0FcJTR2rKVI5sEQUZIDM-N_HY
-
-# The following files will be removed from the generated website.
+# Files to ignore
 exclude:
   - build.sh
   - Gemfile
