@@ -2,11 +2,12 @@
 layout: homepage
 ---
 
-<h1 id="about-me"></h1>
+<h1 id="about-me">About Me</h1>
 
-<h2 style="margin: 80px 0px 10px;"></h2>
+<h2 style="margin: 80px 0px 10px;">Welcome</h2>
 
-Welcome! Myself Hem Chandra Joshi. I am Research Scholar at Indian Institute of Technology Roorkee. My research interests are **F**airness, **A**ccountability, **T**ransparency, and **E**xplainability **(FATE)** in AI.
+Welcome! I am Hem Chandra Joshi, a Research Scholar at the Indian Institute of Technology Roorkee.  
+My research interests are <strong>F</strong>airness, <strong>A</strong>ccountability, <strong>T</strong>ransparency, and <strong>E</strong>xplainability (<strong>FATE</strong>) in AI.
 
 {% include_relative _includes/news.md %}
 
