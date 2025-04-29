@@ -1,13 +1,12 @@
 main:
 
-  - title: "ImageNet3D: Towards General-Purpose Object-Level 3D Understanding"
-    authors: Wufei Ma, Guofeng Zhang, Qihao Liu, Guanning Zeng, Adam Kortylewski, <strong>Yaoyao Liu</strong>, Alan Yuille
-    conference_short: NeurIPS
-    conference: NeurIPS 2024 Datasets and Benchmarks Track.
-    pdf: https://yaoyaoliu.web.illinois.edu/papers/ImageNet3D_Towards_General_Purpose_Object_Level_3D_Understanding.pdf
-    bibtex: https://dblp.org/rec/journals/corr/abs-2406-09613.html?view=bibtex
-    data: https://github.com/wufeim/imagenet3d
-    page: https://imagenet3d.github.io/
+  - title: "FairGenerate: Enhancing Fairness Through Synthetic Data Generation and Two-Fold Biased Labels Removal"
+    authors:  <strong>Hem Chandra Joshi</strong>, Sandeep Kumar
+    conference_short: TOSEM
+    conference: ACM Transacations of Software Engineering and Technology
+    pdf: https://dl.acm.org/doi/abs/10.1145/3730579
+    bibtex: 
+    code: https://github.com/wufeim/imagenet3d
     image: https://img.yliu.me/teaser/imagenet3d.png
 
   
