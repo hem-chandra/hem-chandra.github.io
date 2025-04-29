@@ -25,7 +25,7 @@ google_scholar: https://scholar.google.com/citations?user=CUASp0gAAAAJ&hl=en&oi=
 # twitter: https://twitter.com/YaoyaoLiu1/
 
 # Images 
-avatar: 
+avatar: ./assets/img/hem.jpeg
 
 # Footnotes
 footnote: Feel free to use my website's source code.
