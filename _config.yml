@@ -5,9 +5,9 @@ affiliation: Indian Institute of Technology Roorkee
 affiliation_logo: ./assets/img/IIT_Roorkee.svg
 email: hc_joshi(at)cs.iitr.ac.in
 
-# Site Information
+# Site Settings for USER site (no baseurl)
 url: "https://hem-chandra.github.io"
-baseurl: "/hem-chandra.github.io"   # Required for project pages
+baseurl: ""
 
 remote_theme: yaoyao-liu/minimal-light
 
@@ -20,14 +20,11 @@ avatar: ./assets/img/hem.jpeg
 enable_hopkins_logo: true
 enable_last_update: false
 
-# Link Settings
+# Links
 link_type: icon
 google_scholar: https://scholar.google.com/citations?user=CUASp0gAAAAJ&hl=en&oi=ao
-# github_link: https://github.com/hem-chandra/
-# linkedin: https://www.linkedin.com/in/yourprofile/
-# twitter: https://twitter.com/yourhandle/
 
-# Plugins (required for local builds with remote theme)
+# Plugins (only needed for local builds)
 plugins:
   - jekyll-remote-theme
 
@@ -35,7 +32,7 @@ plugins:
 footnote: Feel free to use my website's source code.
 footnote_link: https://github.com/yaoyao-liu/minimal-light
 
-# Files to ignore
+# Cleanup
 exclude:
   - build.sh
   - Gemfile
