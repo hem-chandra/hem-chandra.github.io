@@ -7,7 +7,6 @@ layout: homepage
 <p style="margin-top: 30px; font-size: 18px; line-height: 1.8;">
   Hello! I'm <strong>Hem Chandra Joshi</strong>, a Research Scholar at the <strong>Indian Institute of Technology Roorkee</strong>.
 </p>
-
 <p style="font-size: 18px; line-height: 1.8;">
   My core research interests lie in 
   <strong style="color: #0056b3;">F</strong>airness, 
