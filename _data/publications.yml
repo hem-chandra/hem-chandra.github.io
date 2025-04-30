@@ -5,7 +5,7 @@ main:
     conference_short: ACM TOSEM
     conference: ACM Transacations of Software Engineering and Technology
     pdf: https://dl.acm.org/doi/abs/10.1145/3730579
-    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:ahsgdE0YHMIJ:scholar.google.com/&output=citation&scisdr=ClHX-z73EIjK1tGVh1g:AFWwaeYAAAAAaBGTn1iIU1fya2X-PIqcKviUb1o&scisig=AFWwaeYAAAAAaBGTn0Z5KCsx0W1j7k8k3bcbwek&scisf=4&ct=citation&cd=-1&hl=en
+    bibtex: https://dl.acm.org/doi/abs/10.1145/3730579
     code: https://github.com/xyz745/FairGenerate
     image: https://raw.githubusercontent.com/hem-chandra/hem-chandra.github.io/main/assets/img/pi/4_fair_generate.png
 
@@ -23,7 +23,7 @@ main:
     authors:  <strong>Hem Chandra Joshi</strong>, Sandeep Kumar
     conference_short: IEEE Internet Computing
     conference: IEEE Internet Computing
-    pdf: https://dl.acm.org/doi/abs/10.1145/3730579
+    pdf: https://doi.org/10.1109/MIC.2023.3335614
     bibtex: https://dblp.org/rec/journals/internet/Joshi024.html?view=bibtex
     #code: https://github.com/wufeim/imagenet3d
     image: https://raw.githubusercontent.com/hem-chandra/hem-chandra.github.io/main/assets/img/pi/2_remote_work.png
