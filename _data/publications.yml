@@ -7,8 +7,7 @@ main:
     pdf: https://dl.acm.org/doi/abs/10.1145/3730579
     bibtex: 
     code: https://github.com/xyz745/FairGenerate
-    image: https://github.com/hem-chandra/hem-chandra.github.io/blob/main/assets/img/pi/fair_generate_block_diagram.png
-
+    image: https://raw.githubusercontent.com/hem-chandra/hem-chandra.github.io/main/assets/img/pi/4_fair_generate.png
 
   - title: "Artificial Intelligence Failures in Autonomous Vehicles: Causes, Implications, and Prevention"
     authors:  <strong>Hem Chandra Joshi</strong>, Sandeep Kumar
@@ -17,7 +16,7 @@ main:
     pdf: https://ieeexplore.ieee.org/abstract/document/10718686/
     bibtex: https://dblp.org/rec/journals/computer/JoshiK24.html?view=bibtex
     code: https://github.com/wufeim/imagenet3d
-    image: https://img.yliu.me/teaser/imagenet3d.png
+    image: https://raw.githubusercontent.com/hem-chandra/hem-chandra.github.io/main/assets/img/pi/3_ai_failure.png
 
 
   - title: "Remote Work and Gender Inequality: Unmasking the Challenges and Seeking Solutions"
@@ -27,7 +26,8 @@ main:
     pdf: https://dl.acm.org/doi/abs/10.1145/3730579
     bibtex: https://dblp.org/rec/journals/internet/Joshi024.html?view=bibtex
     #code: https://github.com/wufeim/imagenet3d
-    image: https://img.yliu.me/teaser/imagenet3d.png
+    image: https://raw.githubusercontent.com/hem-chandra/hem-chandra.github.io/main/assets/img/pi/2_remote_work.png
+
 
 
 
@@ -38,6 +38,7 @@ main:
     pdf: https://doi.org/10.1109/ICDMW58026.2022.00128
     bibtex: https://dblp.org/rec/conf/icdm/JoshiYSS22.html?view=bibtex
    # code: https://github.com/wufeim/imagenet3d
-    image: https://img.yliu.me/teaser/imagenet3d.png
+    image: https://raw.githubusercontent.com/hem-chandra/hem-chandra.github.io/main/assets/img/pi/1_Famps_overview.jpeg
+
 
   
