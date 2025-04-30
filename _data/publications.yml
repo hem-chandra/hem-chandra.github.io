@@ -5,7 +5,7 @@ main:
     conference_short: ACM TOSEM
     conference: ACM Transacations of Software Engineering and Technology
     pdf: https://dl.acm.org/doi/abs/10.1145/3730579
-    bibtex: 
+    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:ahsgdE0YHMIJ:scholar.google.com/&output=citation&scisdr=ClHX-z73EIjK1tGVh1g:AFWwaeYAAAAAaBGTn1iIU1fya2X-PIqcKviUb1o&scisig=AFWwaeYAAAAAaBGTn0Z5KCsx0W1j7k8k3bcbwek&scisf=4&ct=citation&cd=-1&hl=en
     code: https://github.com/xyz745/FairGenerate
     image: https://raw.githubusercontent.com/hem-chandra/hem-chandra.github.io/main/assets/img/pi/4_fair_generate.png
 
@@ -15,7 +15,7 @@ main:
     conference: IEEE Computer
     pdf: https://ieeexplore.ieee.org/abstract/document/10718686/
     bibtex: https://dblp.org/rec/journals/computer/JoshiK24.html?view=bibtex
-    code: https://github.com/wufeim/imagenet3d
+    #code: https://github.com/wufeim/imagenet3d
     image: https://raw.githubusercontent.com/hem-chandra/hem-chandra.github.io/main/assets/img/pi/3_ai_failure.png
 
 
@@ -27,8 +27,6 @@ main:
     bibtex: https://dblp.org/rec/journals/internet/Joshi024.html?view=bibtex
     #code: https://github.com/wufeim/imagenet3d
     image: https://raw.githubusercontent.com/hem-chandra/hem-chandra.github.io/main/assets/img/pi/2_remote_work.png
-
-
 
 
   - title: "Learning About People's Attitude Towards Food Available in India and Its Implications for Fair AI-based Systems"
