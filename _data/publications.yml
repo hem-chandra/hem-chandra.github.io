@@ -6,9 +6,8 @@ main:
     conference: ACM Transacations of Software Engineering and Technology
     pdf: https://dl.acm.org/doi/abs/10.1145/3730579
     bibtex: 
-    code: https://github.com/wufeim/imagenet3d
-    image: https://img.yliu.me/teaser/imagenet3d.png
-
+    code: https://github.com/xyz745/FairGenerate
+    image: https://github.com/hem-chandra/hem-chandra.github.io/blob/main/assets/img/pi/fair_generate_block_diagram.png
 
 
   - title: "Artificial Intelligence Failures in Autonomous Vehicles: Causes, Implications, and Prevention"
