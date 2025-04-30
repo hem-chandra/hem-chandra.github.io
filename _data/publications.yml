@@ -2,11 +2,43 @@ main:
 
   - title: "FairGenerate: Enhancing Fairness Through Synthetic Data Generation and Two-Fold Biased Labels Removal"
     authors:  <strong>Hem Chandra Joshi</strong>, Sandeep Kumar
-    conference_short: TOSEM
+    conference_short: ACM TOSEM
     conference: ACM Transacations of Software Engineering and Technology
     pdf: https://dl.acm.org/doi/abs/10.1145/3730579
     bibtex: 
     code: https://github.com/wufeim/imagenet3d
+    image: https://img.yliu.me/teaser/imagenet3d.png
+
+
+
+  - title: "Artificial Intelligence Failures in Autonomous Vehicles: Causes, Implications, and Prevention"
+    authors:  <strong>Hem Chandra Joshi</strong>, Sandeep Kumar
+    conference_short: IEEE Computer
+    conference: IEEE Computer
+    pdf: https://ieeexplore.ieee.org/abstract/document/10718686/
+    bibtex: https://dblp.org/rec/journals/computer/JoshiK24.html?view=bibtex
+    code: https://github.com/wufeim/imagenet3d
+    image: https://img.yliu.me/teaser/imagenet3d.png
+
+
+  - title: "Remote Work and Gender Inequality: Unmasking the Challenges and Seeking Solutions"
+    authors:  <strong>Hem Chandra Joshi</strong>, Sandeep Kumar
+    conference_short: IEEE Internet Computing
+    conference: IEEE Internet Computing
+    pdf: https://dl.acm.org/doi/abs/10.1145/3730579
+    bibtex: https://dblp.org/rec/journals/internet/Joshi024.html?view=bibtex
+    #code: https://github.com/wufeim/imagenet3d
+    image: https://img.yliu.me/teaser/imagenet3d.png
+
+
+
+  - title: "Learning About People's Attitude Towards Food Available in India and Its Implications for Fair AI-based Systems"
+    authors:  <strong>Hem Chandra Joshi</strong>, Sandeep Kumar
+    conference_short: ICDMW
+    conference: IEEE International Conference on Data Mining Workshops
+    pdf: https://doi.org/10.1109/ICDMW58026.2022.00128
+    bibtex: https://dblp.org/rec/conf/icdm/JoshiYSS22.html?view=bibtex
+   # code: https://github.com/wufeim/imagenet3d
     image: https://img.yliu.me/teaser/imagenet3d.png
 
   
