@@ -13,8 +13,14 @@ layout: homepage
   (<strong style="color: #0056b3;">FATE</strong>) in Artificial Intelligence.
 </p>
 
-<p style="font-size: 18px; line-height: 1.8;">
-  <strong>Long-term goal:</strong> To identify and address ethical concerns in AI, such as algorithmic bias, fairness, interpretability, and explainability, by developing responsible and transparent machine learning algorithms.
+<div style="background-color: white; border: 1px solid #ccc; padding: 15px; border-radius: 8px;">
+  <p style="font-size: 18px; line-height: 1.8; margin: 0;">
+    <strong>Long-term goal:</strong> To identify and address ethical concerns in AI, such as algorithmic bias, fairness, interpretability, and explainability, by developing responsible and transparent machine learning algorithms.
+  </p>
+</div>
+
+<p>
+Previously, I completed my **M.Tech. in Artificial Intelligence** at **University of Hyderabad** *(Institute of Eminence)* and **B.Tech. in Computer Science** from **Nanhi Pari Seemant Engineering Institute (NPSEI), Pithoragarh**.
 </p>
 
 {% include_relative _includes/news.md %}
