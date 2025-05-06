@@ -20,7 +20,7 @@ layout: homepage
 </div>
 
 <p>
-Previously, I completed my **M.Tech. in Artificial Intelligence** at **University of Hyderabad** *(Institute of Eminence)* and **B.Tech. in Computer Science** from **Nanhi Pari Seemant Engineering Institute (NPSEI), Pithoragarh**.
+Previously, I completed my <b>M.Tech. in Artificial Intelligence </b> at <b>University of Hyderabad</b> <i>(Institute of Eminence)</i>. 
 </p>
 
 {% include_relative _includes/news.md %}
