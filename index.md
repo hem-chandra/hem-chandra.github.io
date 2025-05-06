@@ -19,8 +19,11 @@ layout: homepage
   </p>
 </div>
 
-<p>
-Previously, I completed my <b>M.Tech. in Artificial Intelligence </b> at <b>University of Hyderabad</b> <i>(Institute of Eminence)</i>. 
+
+<p style="font-size: 16px; color: #333; line-height: 1.6;">
+  I earned my <strong style="color: #2c3e50;">M.Tech. in Artificial Intelligence</strong> from 
+  <strong style="color: #2c3e50;">University of Hyderabad</strong>, an 
+  <em style="color: #555;">Institute of Eminence</em>.
 </p>
 
 {% include_relative _includes/news.md %}
