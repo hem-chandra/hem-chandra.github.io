@@ -19,7 +19,7 @@ layout: homepage
   </p>
 </div>
 
-<br><br>
+<br>
 <p style="font-size: 16px; color: #333; line-height: 1.6;">
   I earned my <strong style="color: #2c3e50;">M.Tech. in Artificial Intelligence</strong> from 
   <strong style="color: #2c3e50;">University of Hyderabad</strong>, an 
