@@ -27,4 +27,5 @@ layout: homepage
 </p>
 
 {% include_relative _includes/news.md %}
-{% include_relative _includes/contact.md %}
+
+<!-- {% include_relative _includes/contact.md %} -->
