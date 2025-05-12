@@ -28,6 +28,6 @@ layout: homepage
   </a>.
 </p>
 
-{% include_relative _includes/news.md %}
+<!-- {% include_relative _includes/news.md %}  -->
 
 <!-- {% include_relative _includes/contact.md %} -->
