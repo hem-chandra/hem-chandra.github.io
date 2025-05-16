@@ -14,7 +14,7 @@ main:
   #  url: about/
 
   - title: "Projects"
-    url: project/
+    url: projects/
 
   - title: "Publications"
     url: publications/
