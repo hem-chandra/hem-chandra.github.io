@@ -13,7 +13,7 @@ main:
   # - title: "About"
   #  url: about/
 
-- title: "Projects"
+  - title: "Projects"
     url: project/
 
   - title: "Publications"
