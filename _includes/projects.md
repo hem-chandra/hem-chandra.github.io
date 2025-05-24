@@ -6,7 +6,8 @@ Launched by <strong>IndiaAI – IBD</strong> under the <strong>Safe and Trusted 
 </li>
 <br>
 <li><strong><a href="https://www.vajra-india.in/" target="_blank">Visiting Advanced Joint Research Faculty Scheme</a></strong><br>
-  Worked under the Visiting Advanced Joint Research Faculty Scheme (VAJRA)
+  Collaborated on research under the guidance of a VAJRA (Visiting Advanced Joint Research Faculty) awardee.
+  <br>
   Supervised by :  <a href="https://sc.edu/study/colleges_schools/engineering_and_computing/faculty-staff/srivastava.php" target="_blank">Prof. Biplav Srivastava</a>.
 </li>
 
