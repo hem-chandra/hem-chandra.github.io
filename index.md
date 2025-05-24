@@ -15,7 +15,7 @@ layout: homepage
 
 <div style="background-color: white; border: 1px solid #ccc; padding: 15px; border-radius: 8px;">
   <p style="font-size: 18px; line-height: 1.8; margin: 0;">
-    <strong>Long-term goal:</strong> To identify and address ethical concerns in AI, such as algorithmic bias, fairness, interpretability, and explainability, by developing algorithms.
+    <strong>Long-term goal:</strong> To address key ethical challenges in AI, such as algorithmic bias,  poor interpretability, and limited explainability, by developing algorithms that make AI systems more transparent, accountable, and equitable.
   </p>
 </div>
 
