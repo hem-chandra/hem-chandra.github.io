@@ -1,6 +1,8 @@
 <h2 style="margin: 60px 0px 10px;">News</h2>
 
 <ul>
+<li> Our paper about <a href="./publications">Addressing Bias and achieving Fairness in ML Software, 'FairPreprocessor'</a> is accepted to <b> IEEE Intelligent Systems.</b></li>
+
 <li> Our paper about <a href="./publications">Addressing Bias and achieving Fairness in ML Software, 'FairGenerate'</a> is accepted to <b> ACM TOSEM.</b></li>
 <li> Our paper about <a href="./publications">Artificial Intelligence Failures in Autonomous Vehicles</a> is accepted to <b> IEEE Computer.</b></li>
 <li> Our paper about <a href="./publications">Remote Work and Gender Inequality</a> is accepted to <b> IEEE Internet Computing.</b></li>
