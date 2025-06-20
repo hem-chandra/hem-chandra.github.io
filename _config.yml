@@ -27,8 +27,8 @@ plugins:
   - jekyll-remote-theme
 
 # Footer
-footnote: Feel free to use my website's source code.
-footnote_link: https://github.com/yaoyao-liu/minimal-light
+# footnote: Feel free to use my website's source code.
+# footnote_link: https://github.com/yaoyao-liu/minimal-light
 
 # Cleanup
 exclude:
