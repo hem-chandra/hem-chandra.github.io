@@ -1,9 +1,9 @@
 <h2 style="margin: 60px 0px 10px;">News</h2>
 
 <ul>
-  <li>Our paper <a href="./publications">"FairPreprocessor: Addressing Bias and Achieving Fairness in ML Software"</a> has been accepted to <b>IEEE Intelligent Systems</b>.</li>
+  <li>Our paper <a href="./publications">"FairPreprocessor: Better Fairness via Addressing Imbalanced Data through Synthetic Data Generation and Mitigating Biased Labels"</a> has been accepted to <b>IEEE Intelligent Systems</b>.</li>
 
-  <li>Our paper <a href="./publications">"FairGenerate: Addressing Bias and Achieving Fairness in ML Software"</a> has been accepted to <b>ACM Transactions on Software Engineering and Methodology (TOSEM)</b>.</li>
+  <li>Our paper <a href="./publications">"FairGenerate: Enhancing Fairness Through Synthetic Data Generation and Two-Fold Biased Labels Removal"</a> has been accepted to <b>ACM Transactions on Software Engineering and Methodology (TOSEM)</b>.</li>
 
   <li>Our paper <a href="./publications">"Artificial Intelligence Failures in Autonomous Vehicles"</a> has been accepted to <b>IEEE Computer</b>.</li>
 
