@@ -32,5 +32,4 @@ layout: homepage
 
  {% include_relative _includes/publications.md %}  
 
-
-<!-- {% include_relative _includes/contact.md %} -->
+{% include_relative _includes/contact.md %}
