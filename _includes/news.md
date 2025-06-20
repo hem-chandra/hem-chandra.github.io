@@ -5,11 +5,11 @@
 
   <li>Our paper <a href="./publications">"FairGenerate: Enhancing Fairness Through Synthetic Data Generation and Two-Fold Biased Labels Removal"</a> has been accepted to <b>ACM Transactions on Software Engineering and Methodology (TOSEM)</b>.</li>
 
-  <li>Our paper <a href="./publications">"Artificial Intelligence Failures in Autonomous Vehicles"</a> has been accepted to <b>IEEE Computer</b>.</li>
+  <li>Our paper <a href="./publications">"Artificial Intelligence Failures in Autonomous Vehicles: Causes, Implications, and Prevention"</a> has been accepted to <b>IEEE Computer</b>.</li>
 
-  <li>Our paper <a href="./publications">"Remote Work and Gender Inequality"</a> has been accepted to <b>IEEE Internet Computing</b>.</li>
+  <li>Our paper <a href="./publications">"Remote Work and Gender Inequality: Unmasking the Challenges and Seeking Solutions"</a> has been accepted to <b>IEEE Internet Computing</b>.</li>
 
-  <li>Our paper <a href="./publications">"Fair AI-based Food Recommendation Systems and Its Implications"</a> has been accepted to <b>ICDMW</b>.</li>
+  <li>Our paper <a href="./publications">"Learning About People's Attitude Towards Food Available in India and Its Implications for Fair AI-based Systems"</a> has been accepted to <b>ICDMW</b>.</li>
 </ul>
 
 <!-- 
