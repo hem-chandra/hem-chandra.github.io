@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Projects
-permalink: /Project/
+permalink: /project/
 ---
 
 {% include_relative _includes/project.md %}
