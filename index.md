@@ -11,7 +11,7 @@ layout: homepage
   <strong style="color: #0056b3;">T</strong>ransparency, and 
   <strong style="color: #0056b3;">E</strong>xplainability 
   (<strong style="color: #0056b3;">FATE</strong>) in Artificial Intelligence.
-</p><p style="font-size: 16px; color: #333; line-height: 1.6;">
+
  Previously, I completed my <strong style="color: #2c3e50;">M.Tech. in Artificial Intelligence</strong> from 
   <a href="https://uohyd.ac.in/" target="_blank">
     <strong style="color: #2c3e50;">University of Hyderabad, India</strong>, an 
