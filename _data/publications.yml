@@ -1,5 +1,14 @@
 main:
 
+  - title: "FairPreprocessor: Better Fairness via Addressing Imbalanced Data through Synthetic Data Generation and Mitigating Biased Labelsl"
+    authors:  <strong>Hem Chandra Joshi</strong>, Sandeep Kumar
+    conference_short: IEEE Intelligent Systems
+    conference: IEEE Intelligent Systems
+    pdf: https://ieeexplore.ieee.org/document/11039212/
+    bibtex: https://ieeexplore.ieee.org/document/11039212
+    code: https://github.com/sendgmale/FairPreprocessor
+    image: https://raw.githubusercontent.com/hem-chandra/hem-chandra.github.io/main/assets/img/pi/4_fair_generate.png
+
   - title: "FairGenerate: Enhancing Fairness Through Synthetic Data Generation and Two-Fold Biased Labels Removal"
     authors:  <strong>Hem Chandra Joshi</strong>, Sandeep Kumar
     conference_short: ACM TOSEM
