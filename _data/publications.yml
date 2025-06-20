@@ -7,7 +7,7 @@ main:
     pdf: https://ieeexplore.ieee.org/document/11039212/
     bibtex: https://ieeexplore.ieee.org/document/11039212
     code: https://github.com/sendgmale/FairPreprocessor
-    image: https://raw.githubusercontent.com/hem-chandra/hem-chandra.github.io/Default/assets/img/pi/5_fair_preprocessor.jpeg
+    image: https://raw.githubusercontent.com/hem-chandra/hem-chandra.github.io/Default/assets/img/pi/5_fair_preprocessor.png
 
   - title: "FairGenerate: Enhancing Fairness Through Synthetic Data Generation and Two-Fold Biased Labels Removal"
     authors:  <strong>Hem Chandra Joshi</strong>, Sandeep Kumar
