@@ -5,20 +5,7 @@ main:
   conference_short: IEEE Intelligent Systems
   conference: IEEE Intelligent Systems
   pdf: https://ieeexplore.ieee.org/document/11039212/
-  bibtex: |
-    @article{DBLP:journals/computer/JoshiK24,
-      author       = {Hem Chandra Joshi and
-                      Sandeep Kumar},
-      title        = {Artificial Intelligence Failures in Autonomous Vehicles: Causes, Implications,
-                      and Prevention},
-      journal      = {Computer},
-      volume       = {57},
-      number       = {11},
-      pages        = {18--30},
-      year         = {2024},
-      url          = {https://doi.org/10.1109/MC.2024.3449435},
-      doi          = {10.1109/MC.2024.3449435}
-    }
+  bibtex: https://ieeexplore.ieee.org/document/11039212/
   code: https://github.com/sendgmale/FairPreprocessor
   image: https://raw.githubusercontent.com/hem-chandra/hem-chandra.github.io/Default/assets/img/pi/5_fair_preprocessor.png
   
