@@ -1,12 +1,15 @@
 <h2 style="margin: 60px 0px 10px;">News</h2>
 
 <ul>
-<li> Our paper about <a href="./publications">Addressing Bias and achieving Fairness in ML Software, 'FairPreprocessor'</a> is accepted to <b> IEEE Intelligent Systems.</b></li>
+  <li>Our paper <a href="./publications">"FairPreprocessor: Addressing Bias and Achieving Fairness in ML Software"</a> has been accepted to <b>IEEE Intelligent Systems</b>.</li>
 
-<li> Our paper about <a href="./publications">Addressing Bias and achieving Fairness in ML Software, 'FairGenerate'</a> is accepted to <b> ACM TOSEM.</b></li>
-<li> Our paper about <a href="./publications">Artificial Intelligence Failures in Autonomous Vehicles</a> is accepted to <b> IEEE Computer.</b></li>
-<li> Our paper about <a href="./publications">Remote Work and Gender Inequality</a> is accepted to <b> IEEE Internet Computing.</b></li>
-<li> Our paper about <a href="./publications">Fair AI-based Food Recommendation Systems and its implications</a> is accepted to <b> ICDMW.</b></li>
+  <li>Our paper <a href="./publications">"FairGenerate: Addressing Bias and Achieving Fairness in ML Software"</a> has been accepted to <b>ACM Transactions on Software Engineering and Methodology (TOSEM)</b>.</li>
+
+  <li>Our paper <a href="./publications">"Artificial Intelligence Failures in Autonomous Vehicles"</a> has been accepted to <b>IEEE Computer</b>.</li>
+
+  <li>Our paper <a href="./publications">"Remote Work and Gender Inequality"</a> has been accepted to <b>IEEE Internet Computing</b>.</li>
+
+  <li>Our paper <a href="./publications">"Fair AI-based Food Recommendation Systems and Its Implications"</a> has been accepted to <b>ICDMW</b>.</li>
 </ul>
 
 <!-- 
