@@ -40,6 +40,9 @@
       {% if link.others %} 
       {{ link.others }}
       {% endif %}
+      {% if link.keywords %}
+      <p><strong>Keywords:</strong> {{ link.keywords | join: ", " }}</p>
+      {% endif %}
     </div>
   </div>
 </div>
