@@ -14,8 +14,8 @@ layout: homepage
 </p>
 
 <div style="background-color: white; border: 1px solid #ccc; padding: 15px; border-radius: 8px;">
-  <p style="font-size: 18px; line-height: 1.8; margin: 0;">
-    <strong>My Long-term Goal:</strong> To identify and address ethical concerns in AI, such as algorithmic bias, fairness, interpretability, and explainability, by developing responsible and transparent machine learning algorithms.
+ <strong>My Long-term Goal:</strong> :  <p style="font-size: 18px; line-height: 1.8; color: red; margin: 0;">
+   To identify and address ethical concerns in AI, such as algorithmic bias, fairness, interpretability, and explainability, by developing responsible and transparent machine learning algorithms.
   </p>
 </div>
 
