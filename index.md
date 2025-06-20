@@ -5,7 +5,7 @@ layout: homepage
 <h1 id="about-me" style="font-size: 36px; margin-bottom: 20px;">About Me</h1>
 
 <p style="margin-top: 30px; font-size: 18px; line-height: 1.8;">
- Welcome! Myself <strong>Hem Chandra Joshi</strong>, Research Scholar at the <strong>Indian Institute of Technology Roorkee</strong>.  My core research interests focuses in 
+ Welcome! Myself <strong>Hem Chandra Joshi</strong>, Research Scholar at the <strong>Indian Institute of Technology Roorkee</strong>.  My core research interest focuses in 
   <strong style="color: #0056b3;">F</strong>airness, 
   <strong style="color: #0056b3;">A</strong>ccountability, 
   <strong style="color: #0056b3;">T</strong>ransparency, and 
