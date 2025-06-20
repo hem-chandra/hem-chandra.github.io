@@ -1,0 +1,23 @@
+main:
+
+  # - title: "Teaching"
+  #   url: teaching/
+  #   right: true 
+
+  # - title: "Services"
+  #   url: services/
+
+  # - title: "Talks"
+  #   url: talks/
+
+  # - title: "About"
+  #  url: about/
+
+  - title: "Projects"
+    url: project/
+
+  - title: "Publications"
+    url: publications/
+
+  - title: "Home"
+    url: ./

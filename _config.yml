@@ -1,0 +1,40 @@
+# Basic Information 
+title: Hem Chandra Joshi
+position: Research Scholar
+affiliation: Indian Institute of Technology Roorkee
+affiliation_logo: ./assets/img/IIT_Roorkee.svg
+email: hc_joshi(at)cs.iitr.ac.in
+
+# Site Settings for USER site (no baseurl)
+url: "https://hem-chandra.github.io"
+baseurl: ""
+
+remote_theme: yaoyao-liu/minimal-light
+
+# SEO
+keywords: hem chandra joshi
+description: Hem Chandra Joshi is a research scholar at Indian Institute of Technology Roorkee, India. His research lies in Fairness, Accountability, Transparency, and Explainability in AI.
+
+# Appearance
+avatar: ./assets/img/hem.jpeg
+
+# Links
+link_type: icon
+google_scholar: https://scholar.google.com/citations?user=CUASp0gAAAAJ&hl=en&oi=ao
+
+# Plugins (only needed for local builds)
+plugins:
+  - jekyll-remote-theme
+
+# Footer
+footnote: Feel free to use my website's source code.
+footnote_link: https://github.com/yaoyao-liu/minimal-light
+
+# Cleanup
+exclude:
+  - build.sh
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - LICENSE
+  - CNAME
