@@ -23,7 +23,7 @@ layout: homepage
 <p style="font-size: 16px; color: #333; line-height: 1.6;">
   I earned my <strong style="color: #2c3e50;">M.Tech. in Artificial Intelligence</strong> from 
   <a href="https://uohyd.ac.in/" target="_blank">
-    <strong style="color: #2c3e50;">University of Hyderabad</strong>, an 
+    <strong style="color: #2c3e50;">University of Hyderabad, India</strong>, an 
     <em style="color: #555;">Institute of Eminence</em>
   </a>.
 </p>
