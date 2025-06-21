@@ -17,7 +17,7 @@ main:
     url: project/
 
   - title: "Bias Mitigation Methods"
-    url: bias-migiation-methods/
+    url: bias-mitigation-methods/
 
   - title: "Publications"
     url: publications/
