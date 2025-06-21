@@ -16,15 +16,15 @@ main:
   - title: "Projects"
     url: project/
   
-  - title: "Preprocessing Methods"
-    url: preprocessing-methods/
-  
-  - title: "Inprocessing Methods"
-    url: inprocessing-methods/
-  
   - title: "Postprocessing Methods"
     url: postprocessing-methods/
-  
+
+  - title: "Inprocessing Methods"
+    url: inprocessing-methods/
+ 
+  - title: "Preprocessing Methods"
+    url: preprocessing-methods/
+    
   - title: "Publications"
     url: publications/
   
