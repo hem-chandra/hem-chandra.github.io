@@ -39,6 +39,7 @@
       {{ link.others }}
       <i style="color: black; font-weight: 400; font-size: 12px;">{{ link.notes }}</i>      
       {% endif %}
+      <div class="summary">{{ link.summary }}</div>
       {% if link.keywords %}
       <p><strong>Keywords:</strong> {{ link.keywords | join: ", " }}</p>
       {% endif %}
