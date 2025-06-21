@@ -21,7 +21,7 @@ layout: homepage
 <p style="font-size: 18px; line-height: 1.8; margin: 0;">
   <strong>My Long-term Goal:</strong> 
   <span style="color: #800000;">
-    To identify and address ethical concerns in AI models and systems, such as algorithmic bias, fairness, interpretability, and explainability, by developing responsible and transparent machine learning algorithms.
+    To identify and address ethical concerns in AI model and system, such as algorithmic bias, fairness, interpretability, and explainability, by developing responsible and transparent machine learning algorithms.
   </span>
 </p>
 </div>
