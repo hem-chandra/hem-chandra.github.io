@@ -5,7 +5,7 @@ main:
     conference_short: IEEE Intelligent Systems
     conference: IEEE Intelligent Systems
     pdf: https://ieeexplore.ieee.org/document/11039212/
-    bibtex: https://ieeexplore.ieee.org/document/11039212/
+    bibtex: https://github.com/hem-chandra/hem-chandra.github.io/blob/Default/bibtex/FairPreprocessor.txt
     code: https://github.com/sendgmale/FairPreprocessor
     image: https://raw.githubusercontent.com/hem-chandra/hem-chandra.github.io/Default/assets/img/pi/5_fair_preprocessor.png
     
