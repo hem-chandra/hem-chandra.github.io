@@ -39,7 +39,7 @@
       {% endif %}
       {% if link.others %} 
       {{ link.others }}
-      
+      {% endif %}
     </div>
   </div>
 </div>
