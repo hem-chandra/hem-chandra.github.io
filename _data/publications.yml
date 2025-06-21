@@ -14,7 +14,7 @@ main:
     conference_short: ACM TOSEM
     conference: ACM Transactions on Software Engineering and Methodology
     pdf: https://dl.acm.org/doi/abs/10.1145/3730579
-    bibtex: https://dl.acm.org/doi/abs/10.1145/3730579
+    bibtex: https://raw.githubusercontent.com/hem-chandra/hem-chandra.github.io/Default/bibtex/FairGenerate.txt
     code: https://github.com/xyz745/FairGenerate
     image: https://raw.githubusercontent.com/hem-chandra/hem-chandra.github.io/Default/assets/img/pi/4_fair_generate.png
 
