@@ -5,3 +5,4 @@ In this approach, bias is addressed **during model training**. It often involves
 - **Validation**: Used for hyperparameter tuning or bias-aware optimization.
 - **Testing**: Used for final model evaluation.
 
+{% include_relative _includes/inprocessing-publications.md %}
