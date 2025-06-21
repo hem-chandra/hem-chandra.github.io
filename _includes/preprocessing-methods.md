@@ -1,34 +1,9 @@
 ## 👋 Hi, welcome!
 
-We are increasingly using machine learning (ML) software to make autonomous decisions—such as identifying credit risks, determining criminal sentencing, discharging patients, predicting heart diseases, hiring employees, and more. 
+### 🛠️ Pre-processing Methods for Fairness
 
-However, biased decisions made by ML software against specific social groups—often based on protected or sensitive attributes (e.g., sex)—have raised significant concerns within both the software engineering (SE) and ML communities.
+This page highlights our **preprocessing-based fairness work**—methods that operate on the **training data** before any model is built. These approaches help reduce or eliminate bias at the source, ensuring downstream models behave more fairly and responsibly.
 
-**ML software learns its decision logic from training data. As a result, if the training data is biased, the model can learn and perpetuate those biases in its predictions.**
+Machine learning (ML) software is increasingly used to make autonomous decisions in areas such as credit risk assessment, criminal sentencing, patient discharge, heart disease prediction, and hiring. However, biased decisions—often based on protected attributes like sex—have raised serious concerns in both the software engineering (SE) and ML communities.
 
----
-
-### 🛠️ This Page Covers: Pre-processing Methods for Fairness
-
-This page highlights our **preprocessing-based fairness work**. These methods operate on the **training data** before any model is built. Techniques in this category include:
-
-- Reweighting training examples  
-- Data transformation or balancing  
-- Biased label correction  
-- Synthetic data generation to ensure equitable representation  
-
-These approaches are essential for reducing or eliminating bias from the source, ensuring that downstream models behave more fairly and responsibly.
-
----
-
-Feel free to explore the methods and publications listed here to learn more!
-
-
-
-
-
-
-
-
-
-
+**Since ML models learn from training data, any bias in that data can result in biased predictions.**
