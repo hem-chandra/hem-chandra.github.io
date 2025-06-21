@@ -1,0 +1,10 @@
+@ARTICLE{11039212,
+  author={Joshi, Hem Chandra and Kumar, Sandeep},
+  journal={IEEE Intelligent Systems}, 
+  title={FairPreprocessor: Better Fairness via Addressing Imbalanced Data through Synthetic Data Generation and Mitigating Biased Labels}, 
+  year={2025},
+  volume={},
+  number={},
+  pages={1-15},
+  keywords={Training;Software;Testing;Data models;Training data;Synthetic data;Surveys;Intelligent systems;Heart;Data mining},
+  doi={10.1109/MIS.2025.3580459}}
