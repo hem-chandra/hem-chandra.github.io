@@ -5,7 +5,7 @@
 
   <li>Our paper <a href="./publications">"FairGenerate: Enhancing Fairness Through Synthetic Data Generation and Two-Fold Biased Labels Removal"</a> has been accepted to <b>ACM Transactions on Software Engineering and Methodology (TOSEM) </b> (Q1 Journal, IF: 6.6).</li>
 
-  <li>Our paper <a href="./publications">"Artificial Intelligence Failures in Autonomous Vehicles: Causes, Implications, and Prevention"</a> has been accepted to <b>IEEE Computer</b> (Q2 Journal, IF: 2.3).</li>
+  <li>Our paper <a href="./publications">"Artificial Intelligence Failures in Autonomous Vehicles: Causes, Implications, and Prevention"</a> has been accepted to <b>IEEE Computer</b> (Q3 Journal, IF: 2.3).</li>
 
   <li>Our paper <a href="./publications">"Remote Work and Gender Inequality: Unmasking the Challenges and Seeking Solutions"</a> has been accepted to <b>IEEE Internet Computing</b> (Q1 Journal, IF: 4.4).</li>
 
