@@ -3,8 +3,6 @@
 }
 
 .summary {
-  position: relative;
-  bottom: 0;
   font-size: 12px;
   color: black;
   border-top: 1px solid #ccc;
