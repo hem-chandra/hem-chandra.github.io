@@ -40,7 +40,7 @@ main:
 
   - title: "Learning About People's Attitude Towards Food Available in India and Its Implications for Fair AI-based Systems"
     authors:  <strong>Hem Chandra Joshi</strong>, Utkarsh Yadav, Biplav Srivastava, Ram Manohar Singh
-    conference_short: ICDMW
+    conference_short: IEEE ICDMW
     conference: IEEE International Conference on Data Mining Workshops
     pdf: https://doi.org/10.1109/ICDMW58026.2022.00128
     bibtex: https://dblp.org/rec/conf/icdm/JoshiYSS22.html?view=bibtex
