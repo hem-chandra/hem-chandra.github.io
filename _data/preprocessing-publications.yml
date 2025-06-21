@@ -8,8 +8,8 @@ main:
     bibtex: https://raw.githubusercontent.com/hem-chandra/hem-chandra.github.io/Default/bibtex/FairGenerate.txt
     code: https://github.com/xyz745/FairGenerate
     image: https://raw.githubusercontent.com/hem-chandra/hem-chandra.github.io/Default/assets/img/pi/4_fair_generate.png
-    summary: The machine learning(ML) model acquires logic from the training dataset, and any bias within it impacts the model’s decision. Previous studies have revealed that ‘biased labels’ and ‘imbalanced data’ are significant causes of bias in the training dataset. This study proposes a preprocessing approach, FairPreprocessor, that addresses ’imbalanced data’ through rebalancing the internal data distribution by employing synthetic data techniques grounded in differential evolution. It also selects the most suitable crossover rate in synthetic data generation to achieve better fairness. Additionally, it identifies and removes biased labels through situation testing, thereby mitigating their effects and developing fairer ML software. To facilitate an open science, this study’s source code and datasets are available online at https://github.com/sendgmale/FairPreprocessor.
-
+    summary:  FairGenerate, a pre-processing method that (a) balances the internal distribution of training datasets based on class labels and sensitive attributes by generating synthetic data samples using differential evolution and (b) identifies the biased labels through situation testing and removes them before and after synthetic data generation, hence the development of fair ML software.  
+    
   - title: "FairPreprocessor: Better Fairness via Addressing Imbalanced Data through Synthetic Data Generation and Mitigating Biased Labels"
     authors: <strong>Hem Chandra Joshi</strong>, Sandeep Kumar
     conference_short: IEEE Intelligent Systems
@@ -18,5 +18,5 @@ main:
     bibtex: https://raw.githubusercontent.com/hem-chandra/hem-chandra.github.io/Default/bibtex/FairPreprocessor.txt
     code: https://github.com/sendgmale/FairPreprocessor
     image: https://raw.githubusercontent.com/hem-chandra/hem-chandra.github.io/Default/assets/img/pi/5_fair_preprocessor.png
-    
+    summary:  FairPreprocessor addresses ’imbalanced data’ through rebalancing the internal data distribution by employing synthetic data techniques grounded in differential evolution. It also selects the most suitable crossover rate in synthetic data generation to achieve better fairness. Additionally, it identifies and removes biased labels through situation testing, thereby mitigating their effects and developing fairer ML software.
  
