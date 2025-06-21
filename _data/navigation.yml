@@ -16,8 +16,14 @@ main:
   - title: "Projects"
     url: project/
 
-  - title: "Bias Mitigation Methods"
-    url: bias-mitigation-methods/
+  - title: "Preprocessing Methods"
+    url: preprocessing-methods/
+
+ - title: "Inprocessing Methods"
+    url: inprocessing-methods/
+
+ - title: "Postprocessing Methods"
+    url: postprocessing-methods/
 
   - title: "Publications"
     url: publications/
