@@ -2,7 +2,15 @@
   width: 40px;
 }
 
-
+.summary {
+  position: absolute;
+  bottom: 0;
+  font-size: 12px;
+  color: black;
+  border-top: 1px solid #ccc;
+  padding-top: 4px;
+  width: 100%;
+}
 
 .badge {
     display: inline-block;
