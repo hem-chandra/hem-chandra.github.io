@@ -11,6 +11,16 @@ Bias mitigation methods in ML-based software are broadly classified into three c
 #### 1. Pre-processing Methods
 These methods work on the **training data** before the model is built. Techniques include reweighting, data transformation, label correction, or generating synthetic data to reduce or eliminate bias from the dataset itself.
 
+
+
+
+
+
+
+
+
+
+
 #### 2. In-processing Methods
 In this approach, bias is addressed **during model training**. It often involves modifying the learning algorithm, incorporating fairness constraints or custom loss functions. The dataset is typically divided into training, validation, and testing subsets:
 - **Training**: Used to train the model.
