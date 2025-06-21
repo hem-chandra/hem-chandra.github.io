@@ -3,7 +3,7 @@
 }
 
 .summary {
-  position: absolute;
+  position: relative;
   bottom: 0;
   font-size: 12px;
   color: black;
