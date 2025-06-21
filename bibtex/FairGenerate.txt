@@ -1,0 +1,15 @@
+@article{10.1145/3730579,
+author = {Joshi, Hem Chandra and Kumar, Sandeep},
+title = {FairGenerate: Enhancing Fairness Through Synthetic Data Generation and Two-Fold Biased Labels Removal},
+year = {2025},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+issn = {1049-331X},
+url = {https://doi.org/10.1145/3730579},
+doi = {10.1145/3730579},
+abstract = {We are increasingly using machine learning (ML) software to make autonomous decisions such as identifying credit risks, criminal sentencing, discharge of a patient, predicting heart diseases, hiring employees, etc. However, the biased decision made by ML software against specific social groups based on protected/sensitive attributes (e.g., sex) has raised concern among software engineering (SE) and ML communities. ML software builds its decision logic from the training data. Consequently, if it is trained on biased data, it can make biased decisions. Previous studies have reported ‘biased labels’ and ‘imbalanced data’ as the root causes of biases in the training dataset. In this study, we propose FairGenerate, a pre-processing method that (a) balances the internal distribution of training datasets based on class labels and sensitive attributes by generating synthetic data samples using differential evolution and (b) identifies the biased labels through situation testing and removes them before and after synthetic data generation, hence the development of fair ML software.The experiments carried out in this study show that our proposed approach, FairGenerate, can attain markedly improved fairness (measured across various metrics) without compromising (original) the model performance over five benchmark methods. FairGenerate outperforms the fairness and performance trade-off baseline set by the benchmarking tool Fairea in 65\% of cases, compared to the state-of-the-art method, which achieves this in only 59\% of cases. To promote open science, we provide all the scripts and data utilized in this work at .},
+note = {Just Accepted},
+journal = {ACM Trans. Softw. Eng. Methodol.},
+month = apr,
+keywords = {ML software, Software fairness, Bias mitigation, Imbalanced Data, Biased Labels}
+}
