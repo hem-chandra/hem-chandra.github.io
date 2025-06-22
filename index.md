@@ -2,7 +2,6 @@
 layout: homepage
 ---
 <br>
-<br>
 <h1 id="about-me" style="font-size: 36px; margin-bottom: 20px;">About Me</h1>
 
 <p style="margin-top: 30px; font-size: 18px; line-height: 1.8;">
@@ -26,8 +25,6 @@ layout: homepage
 </p>
 </div>
 
- {% include_relative _includes/news.md %}  
-
- {% include_relative _includes/publications.md %}  
-
+{% include_relative _includes/news.md %}  
+{% include_relative _includes/publications.md %}  
 {% include_relative _includes/contact.md %}
