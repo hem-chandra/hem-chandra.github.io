@@ -12,8 +12,8 @@ layout: homepage
   <strong style="color: #0056b3;">E</strong>xplainability 
   (<strong style="color: #0056b3;">FATE</strong>) in Artificial Intelligence.  Previously, I completed my <strong style="color: #2c3e50;">M.Tech. in Artificial Intelligence</strong> from 
   <a href="https://uohyd.ac.in/" target="_blank">
-   University of Hyderabad (Institute of Eminence)
-  </a>.
+   University of Hyderabad (Institute of Eminence).
+  </a>
 </p>
 
 <div style="background-color: white; border: 1px solid #ccc; padding: 15px; border-radius: 8px;">
