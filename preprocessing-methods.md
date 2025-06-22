@@ -1,5 +1,5 @@
 ---
-layout: homepage
+layout: default
 title: Preprocessing Methods
 permalink: /preprocessing-methods/
 ---
