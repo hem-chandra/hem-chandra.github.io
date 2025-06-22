@@ -16,11 +16,11 @@ main:
   - title: "Projects"
     url: project/
   
-  - title: "Postprocessing Methods"
-    url: postprocessing-methods/
+  # - title: "Postprocessing Methods"
+  #   url: postprocessing-methods/
 
-  - title: "Inprocessing Methods"
-    url: inprocessing-methods/
+  # - title: "Inprocessing Methods"
+  #   url: inprocessing-methods/
  
   - title: "Preprocessing Methods"
     url: preprocessing-methods/
