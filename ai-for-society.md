@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Preprocessing Methods
+title: AI For Society
 permalink: /ai-for-society/
 ---
 
