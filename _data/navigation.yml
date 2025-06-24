@@ -15,7 +15,10 @@ main:
 
   - title: "Projects"
     url: project/
-  
+
+  - title: "AI For Society"
+    url:  ai-for-society/
+
   # - title: "Postprocessing Methods"
   #   url: postprocessing-methods/
 
