@@ -1,0 +1,33 @@
+main:
+
+  - title: "Artificial Intelligence Failures in Autonomous Vehicles: Causes, Implications, and Prevention"
+    authors:  <strong>Hem Chandra Joshi</strong>, Sandeep Kumar
+    conference_short: IEEE Computer
+    conference: IEEE Computer
+    pdf: https://ieeexplore.ieee.org/abstract/document/10718686/
+    bibtex: https://dblp.org/rec/journals/computer/JoshiK24.html?view=bibtex
+    #code: https://github.com/wufeim/imagenet3d
+    image: https://raw.githubusercontent.com/hem-chandra/hem-chandra.github.io/Default/assets/img/pi/3_ai_failure.png
+
+
+  - title: "Remote Work and Gender Inequality: Unmasking the Challenges and Seeking Solutions"
+    authors:  <strong>Hem Chandra Joshi</strong>, Sandeep Kumar
+    conference_short: IEEE Internet Computing
+    conference: IEEE Internet Computing
+    pdf: https://doi.org/10.1109/MIC.2023.3335614
+    bibtex: https://dblp.org/rec/journals/internet/Joshi024.html?view=bibtex
+    #code: https://github.com/wufeim/imagenet3d
+    image: https://raw.githubusercontent.com/hem-chandra/hem-chandra.github.io/Default/assets/img/pi/2_remote_work.png
+
+
+  - title: "Learning About People's Attitude Towards Food Available in India and Its Implications for Fair AI-based Systems"
+    authors:  <strong>Hem Chandra Joshi</strong>, Utkarsh Yadav, Biplav Srivastava, Ram Manohar Singh
+    conference_short: IEEE ICDMW
+    conference: IEEE International Conference on Data Mining Workshops
+    pdf: https://doi.org/10.1109/ICDMW58026.2022.00128
+    bibtex: https://dblp.org/rec/conf/icdm/JoshiYSS22.html?view=bibtex
+   # code: https://github.com/wufeim/imagenet3d
+    image: https://raw.githubusercontent.com/hem-chandra/hem-chandra.github.io/Default/assets/img/pi/1_Famps_overview.jpeg
+
+
+  
