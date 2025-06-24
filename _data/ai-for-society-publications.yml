@@ -8,6 +8,7 @@ main:
     bibtex: https://dblp.org/rec/journals/computer/JoshiK24.html?view=bibtex
     #code: https://github.com/wufeim/imagenet3d
     image: https://raw.githubusercontent.com/hem-chandra/hem-chandra.github.io/Default/assets/img/pi/3_ai_failure.png
+    summary: We comprehensively explore the causes of artificial intelligence failures in autonomous vehicles and their implications, proposing strategies and technological solutions to prevent these failures. We also outline key research directions for future research and offer actionable recommendations for researchers, policymakers, and industry professionals.
 
 
   - title: "Remote Work and Gender Inequality: Unmasking the Challenges and Seeking Solutions"
@@ -18,6 +19,7 @@ main:
     bibtex: https://dblp.org/rec/journals/internet/Joshi024.html?view=bibtex
     #code: https://github.com/wufeim/imagenet3d
     image: https://raw.githubusercontent.com/hem-chandra/hem-chandra.github.io/Default/assets/img/pi/2_remote_work.png
+    summary: In this study, we collect important insights about recent research focusing on the impact of RW, particularly accentuated by the COVID-19 pandemic, on gender equality and highlight the barriers and challenges women face due to it. By analyzing insights gleaned from recent literature, we propose strategies and discuss the potential artificial intelligence-based solutions to address and overcome them.
 
 
   - title: "Learning About People's Attitude Towards Food Available in India and Its Implications for Fair AI-based Systems"
@@ -28,6 +30,6 @@ main:
     bibtex: https://dblp.org/rec/conf/icdm/JoshiYSS22.html?view=bibtex
    # code: https://github.com/wufeim/imagenet3d
     image: https://raw.githubusercontent.com/hem-chandra/hem-chandra.github.io/Default/assets/img/pi/1_Famps_overview.jpeg
-
+    summary:  In this paper, we want to understand people's perception towards food with respect to their background, and use this as the context to evaluate food-based AI systems in future. Therefore, we conduct the first-of-its-kind survey on perception about food available in India at educational institutes from participants who may associate themselves with different regions within and outside India. We find that users have unequal access to food from different regions today and this may be considered unfair by existing group fairness definitions. Further, we find that many food choices transcend regions, a majority of people prefer food outside their own regions and that usage of digital tools for food is on the rise. 
 
   
