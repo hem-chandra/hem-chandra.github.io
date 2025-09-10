@@ -3,7 +3,9 @@
 <ul>
 
 
-  <li> <b>Research Team Member</b> in the <b>Synthetic Data Generation project under the Responsible AI Theme (IndiaAI–IBD, MeitY)</b>, developing AI tools and frameworks to enhance fairness by generating synthetic data and mitigating biased labels.</li>
+  <li> <b>Research Team Member </b> – Synthetic Data Generation project under the Responsible AI Theme (IndiaAI–IBD, MeitY)
+Contributing to the development of AI tools and frameworks to enhance fairness in machine learning by generating synthetic data and mitigating biased labels.
+<b>Duration:</b>Feb 2025 – Present </li>
 
 
   <li>Our paper <a href="./publications">"FairPreprocessor: Better Fairness via Addressing Imbalanced Data through Synthetic Data Generation and Mitigating Biased Labels"</a> has been accepted to <b>IEEE Intelligent Systems </b> (Q1 Journal, IF: 6.1).</li>
