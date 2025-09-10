@@ -16,7 +16,7 @@ Contributing to the development of AI tools and frameworks to enhance fairness i
 ## Understanding People’s Attitude Towards Food in India – VAJRA Scheme
 **Role:** Researcher  
 **Organization:** IIT Roorkee & University of South Carolina (VAJRA Scheme, DST, Government of India)  
-**Duration:** [Insert duration, e.g., Jan 2022 – Dec 2022]  
+**Duration:** Dec 2021 - Oct 2022
 
 Collaborated with Prof. Sandeep Kumar (IIT Roorkee) and Prof. Biplav Srivastava (University of South Carolina) to study people’s attitudes toward food in India and its implications for designing **fair AI systems**.  
 
