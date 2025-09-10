@@ -8,7 +8,7 @@
 Contributing to the development of AI tools and frameworks to enhance fairness in machine learning by generating synthetic data and mitigating biased labels.  
 
 **Publications from this project:**  
-- <b>H. C. Joshi</b> and S. Kumar, “FairGenerate: Enhancing fairness through synthetic data generation and two-fold biased labels removal,” *ACM Transactions on Software Engineering and Methodology*, Apr. 2025 (Just Accepted).  
+- <b>H. C. Joshi</b> and S. Kumar, “FairGenerate: Enhancing fairness through synthetic data generation and two-fold biased labels removal,” *ACM Transactions on Software Engineering and Methodology*, Apr. 2025.  
 - <b>H. C. Joshi</b> and S. Kumar, “FairPreprocessor: Better Fairness via Addressing Imbalanced Data through Synthetic Data Generation and Mitigating Biased Labels,” *IEEE Intelligent Systems*, doi: 10.1109/MIS.2025.3580459.  
 
 ---
