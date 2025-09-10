@@ -2,8 +2,7 @@
 
 <ul>
 
-
-  <li> <b>Research Team Member </b> – Synthetic Data Generation project under the Responsible AI Theme (IndiaAI–IBD, MeitY)
+  <li> <b>Research Team Member </b> – Synthetic Data Generation project under the <a href="https://indiaai.gov.in/news/selected-projects-for-responsible-ai-themed-projects-under-safe-trusted-ai-pillar"> Responsible AI Theme (IndiaAI–IBD, MeitY) </a>
 Contributing to the development of AI tools and frameworks to enhance fairness in ML by generating synthetic data and mitigating biased labels. </li>
 
 
