@@ -13,15 +13,15 @@ main:
   # - title: "About"
   #  url: about/
 
-  - title: "Projects"
-    url: project/
-
-  - title: "AI For Society"
-    url:  ai-for-society/
 
   - title: "AI For Privacy"
     url: ai-for-privacy/
 
+  - title: "AI For Society"
+    url:  ai-for-society/
+    
+  - title: "Projects"
+    url: project/
     
   # - title: "Postprocessing Methods"
   #   url: postprocessing-methods/
