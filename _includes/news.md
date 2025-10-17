@@ -12,7 +12,7 @@
 
   <li>Our paper <a href="./publications">"Remote Work and Gender Inequality: Unmasking the Challenges and Seeking Solutions"</a> has been accepted to <b>IEEE Internet Computing</b> (Q1 Journal, IF: 4.4).</li>
 
-  <li>Our paper <a href="./publications">"Learning About People's Attitude Towards Food Available in India and Its Implications for Fair AI-based Systems"</a> has been accepted to <b>IEEE ICDMW</b> (A* Workshop).</li>
+  <li>Our paper <a href="./publications">"Learning About People's Attitude Towards Food Available in India and Its Implications for Fair AI-based Systems"</a> has been accepted to <b>IEEE ICDMW</b> (A* Conference Workshop).</li>
 </ul>
 
 <!-- 
