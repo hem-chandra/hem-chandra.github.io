@@ -20,9 +20,6 @@ main:
   - title: "AI For Society"
     url:  ai-for-society/
     
-  - title: "Projects"
-    url: project/
-    
   # - title: "Postprocessing Methods"
   #   url: postprocessing-methods/
 
@@ -34,6 +31,9 @@ main:
     
   - title: "Publications"
     url: publications/
+
+  - title: "Projects"
+    url: project/
   
   - title: "Home"
     url: ./
