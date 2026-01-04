@@ -14,8 +14,8 @@ main:
   #  url: about/
 
 
-  - title: "AI For Privacy"
-    url: ai-for-privacy/
+  # - title: "AI For Privacy"
+  #   url: ai-for-privacy/
 
   - title: "AI For Society"
     url:  ai-for-society/
