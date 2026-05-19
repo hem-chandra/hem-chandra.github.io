@@ -20,7 +20,7 @@ Welcome! I am **Hem Chandra Joshi**, a passionate independent researcher working
 <p style="font-size: 18px; line-height: 1.8; margin: 0;">
   <strong>My Long-term Goal:</strong> 
   <span style="color: #800000;">
-To identify and address ethical challenges in AI systems, including algorithmic bias, fairness, interpretability, and explainability, through the development of responsible and trustworthy AI methodologies. Although AI systems have achieved remarkable capabilities, ensuring their transparency, fairness, and trustworthiness remains a critical challenge!!
+To identify and address ethical challenges in AI systems, including algorithmic bias, fairness, interpretability, and explainability, through the development of responsible and trustworthy AI methodologies. AAlthough AI systems have achieved remarkable capabilities, ensuring their transparency, fairness, and trustworthiness in critical domains remains a significant challenge.
   </span>
 </p>
 </div>
