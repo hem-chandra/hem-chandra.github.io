@@ -6,7 +6,10 @@ layout: homepage
 
 <p style="margin-top: 30px; font-size: 18px; line-height: 1.8;">
   Welcome! I am <strong>Hem Chandra Joshi</strong>, a Passionate Researcher working in the areas of Trustworthy and Responsible Artificial Intelligence. Previously, I worked as a Senior Research Fellow at 
-  <a href="https://en.wikipedia.org/wiki/IIT_Roorkee" target="_blank"> Indian Institute of Technology Roorkee (IIT Roorkee) </a>, formerly recognized as the first engineering college established in Asia. </p>
+  <a href="https://en.wikipedia.org/wiki/IIT_Roorkee" target="_blank"> Indian Institute of Technology Roorkee (IIT Roorkee) </a>, formerly recognized as the first engineering college established in Asia.  Previously, I completed my <strong style="color: #2c3e50;">M.Tech. in Artificial Intelligence</strong> from 
+  <a href="https://uohyd.ac.in/" target="_blank">
+    University of Hyderabad (Institute of Eminence)
+  </a>.</p>
   
 <p> My core research interests focus on 
   <strong style="color: #0056b3;">F</strong>airness, 
@@ -14,12 +17,6 @@ layout: homepage
   <strong style="color: #0056b3;">T</strong>ransparency, and 
   <strong style="color: #0056b3;">E</strong>xplainability 
   (<strong style="color: #0056b3;">FATE</strong>) in Artificial Intelligence.
-  
-  Previously, I completed my 
-  <strong style="color: #2c3e50;">M.Tech. in Artificial Intelligence</strong> from 
-  <a href="https://uohyd.ac.in/" target="_blank">
-    University of Hyderabad (Institute of Eminence)
-  </a>.
 </p>
 
 
