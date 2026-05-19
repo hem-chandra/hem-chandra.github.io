@@ -5,7 +5,7 @@ layout: homepage
 <h1 id="about-me" style="font-size: 36px; margin-bottom: 20px;">About Me</h1>
 
 <p style="margin-top: 30px; font-size: 18px; line-height: 1.8;">
-Welcome! I am **Hem Chandra Joshi**, a passionate independent researcher working in the areas of trustworthy and responsible Artificial Intelligence. Previously, I served as a Senior Research Fellow at the **Indian Institute of Technology Roorkee**.  My core research interest focuses in 
+Welcome! I am **Hem Chandra Joshi**, a passionate independent researcher working in the areas of trustworthy and responsible Artificial Intelligence. Previously, I served as a Senior Research Fellow at the [Indian Institute of Technology Roorkee](https://en.wikipedia.org/wiki/IIT_Roorkee).  My core research interest focuses in 
   <strong style="color: #0056b3;">F</strong>airness, 
   <strong style="color: #0056b3;">A</strong>ccountability, 
   <strong style="color: #0056b3;">T</strong>ransparency, and 
