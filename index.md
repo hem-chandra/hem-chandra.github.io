@@ -9,7 +9,7 @@ layout: homepage
 </h1>
 
 <p style="margin-top: 30px; font-size: 18px; line-height: 1.8;">
-  Welcome! I am <strong>Hem Chandra Joshi</strong>, a passionate researcher working in the areas of Trustworthy and Responsible Artificial Intelligence. Previously, I worked as a Senior Research Fellow at 
+  Welcome! I am <strong>Hem Chandra Joshi</strong>, a passionate researcher working in the areas of Trustworthy and Responsible Artificial Intelligence. Currently, I am working as a Senior Research Fellow at 
   <a href="https://en.wikipedia.org/wiki/IIT_Roorkee" target="_blank">
     Indian Institute of Technology Roorkee (IIT Roorkee)
   </a>, formerly recognized as the first engineering college established in Asia.
