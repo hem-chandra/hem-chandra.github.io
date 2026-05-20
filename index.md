@@ -14,7 +14,7 @@ layout: homepage
     Indian Institute of Technology Roorkee (IIT Roorkee)
   </a>, formerly recognized as the first engineering college established in Asia.
   
-  Previously, I completed my 
+  I also completed my 
   <strong style="color: #2c3e50;">M.Tech. in Artificial Intelligence</strong> from 
   <a href="https://uohyd.ac.in/" target="_blank">
     University of Hyderabad (Institute of Eminence)
