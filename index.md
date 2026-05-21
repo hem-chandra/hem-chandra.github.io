@@ -10,10 +10,10 @@ layout: homepage
 <p class="about-text">
   Welcome! I am 
   <strong class="highlight-name">Hem Chandra Joshi</strong>, 
-  a passionate researcher working in the areas of 
+  a Passionate Researcher working in the areas of 
   <span class="highlight-ai">
-    Trustworthy and Responsible Artificial Intelligence
-  </span>. 
+    Trustworthy and Responsible Artificial Intelligence.
+  </span>
 
   Previously, I was associated as a 
   <strong>Senior Research Fellow</strong> at 
