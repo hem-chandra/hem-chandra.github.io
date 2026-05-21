@@ -39,7 +39,7 @@ layout: homepage
 <div class="research-box">
 
 <p class="about-text no-margin">
-  My core research interests focus on:
+  My core research interests focus on <span class="fate-text"> (FATE) </span>:
 </p>
 
 <div class="fate-container" style="font-size:17px;">
@@ -49,9 +49,7 @@ layout: homepage
 <span class="t-letter">T</span>ransparency &nbsp;•&nbsp;
 <span class="e-letter">E</span>xplainability
 
-<span class="fate-text">
-(FATE)
-</span>
+
 
 </div>
 
