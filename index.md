@@ -2,6 +2,8 @@
 layout: homepage
 ---
 
+> “Ethics is knowing the difference between what you have a right to do and what is right to do.” — Potter Stewart
+
 <br>
 
 <h1 id="about-me" style="font-size: 36px; margin-bottom: 20px;">
