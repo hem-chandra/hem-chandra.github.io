@@ -22,11 +22,7 @@ layout: homepage
      class="custom-link">
     Indian Institute of Technology Roorkee (IIT Roorkee)
   </a>, 
-  formerly recognized as the first engineering college established in Asia.
-</p>
-
-<p class="about-text">
-  I completed my 
+  formerly recognized as the first engineering college established in Asia.   I have also completed my 
   <strong class="highlight-degree">
     M.Tech. in Artificial Intelligence
   </strong> from 
@@ -35,6 +31,10 @@ layout: homepage
      class="custom-link">
     University of Hyderabad (Institute of Eminence)
   </a>.
+</p>
+
+
+
 </p>
 
 <div class="research-box">
