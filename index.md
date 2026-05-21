@@ -2,8 +2,47 @@
 layout: homepage
 ---
 
-> “Ethics is knowing the difference between what you have a right to do and what is right to do.” — Potter Stewart
+<div class="quote-container">
+  <p class="quote">
+    “Ethics is knowing the difference between what you have a right to do and what is right to do.”
+  </p>
+  <p class="author">— Potter Stewart</p>
+</div>
 
+<style>
+.quote-container {
+    margin-top: 100px;
+    text-align: center;
+    animation: float 3s ease-in-out infinite;
+    font-family: Arial, sans-serif;
+}
+
+.quote {
+    font-size: 28px;
+    font-style: italic;
+    color: #333;
+    max-width: 800px;
+    margin: auto;
+}
+
+.author {
+    margin-top: 20px;
+    font-size: 20px;
+    color: #666;
+}
+
+@keyframes float {
+    0% {
+        transform: translateY(0px);
+    }
+    50% {
+        transform: translateY(-12px);
+    }
+    100% {
+        transform: translateY(0px);
+    }
+}
+</style>
 <br>
 
 <h1 id="about-me" style="font-size: 36px; margin-bottom: 20px;">
