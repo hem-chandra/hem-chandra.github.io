@@ -1,3 +1,243 @@
+.quote-container {
+
+    margin-top: 100px;
+
+    text-align: center;
+
+    animation: float 3s ease-in-out infinite;
+
+    font-family: Arial, sans-serif;
+
+}
+
+.quote {
+
+    font-size: 14px;
+
+    font-style: italic;
+
+    color: #333;
+
+    max-width: 800px;
+
+    margin: auto;
+
+}
+
+.author {
+
+    margin-top: 20px;
+
+    font-size: 20px;
+
+    color: #666;
+
+}
+
+@keyframes float {
+
+    0% {
+
+        transform: translateY(0px);
+
+    }
+
+    50% {
+
+        transform: translateY(-12px);
+
+    }
+
+    100% {
+
+        transform: translateY(0px);
+
+    }
+
+}
+
+.about-container {
+
+    padding: 30px;
+
+    border-radius: 18px;
+
+    background: linear-gradient(135deg, #f8fbff, #eef5ff);
+
+    border: 1px solid #d6e4ff;
+
+    box-shadow: 0 4px 12px rgba(0,0,0,0.08);
+
+    margin-top: 25px;
+
+    margin-bottom: 30px;
+
+}
+
+.about-title {
+
+    font-size: 40px;
+
+    margin-bottom: 25px;
+
+    color: #0b3d91;
+
+    text-align: center;
+
+    letter-spacing: 1px;
+
+}
+
+.about-text {
+
+    font-size: 18px;
+
+    line-height: 1.9;
+
+    color: #2c3e50;
+
+    text-align: justify;
+
+}
+
+.highlight-name {
+
+    color: #0b3d91;
+
+}
+
+.highlight-ai {
+
+    color: #8e44ad;
+
+    font-weight: 600;
+
+}
+
+.highlight-degree {
+
+    color: #16a085;
+
+}
+
+.custom-link {
+
+    color: #0056b3;
+
+    text-decoration: none;
+
+    font-weight: 600;
+
+}
+
+.research-box {
+
+    margin-top: 25px;
+
+    padding: 20px;
+
+    border-radius: 14px;
+
+    background: #ffffff;
+
+    border-left: 6px solid #0056b3;
+
+    box-shadow: 0 3px 10px rgba(0,0,0,0.06);
+
+}
+
+.no-margin {
+
+    margin: 0;
+
+}
+
+.fate-container {
+
+    margin-top: 15px;
+
+    font-size: 20px;
+
+    font-weight: bold;
+
+    letter-spacing: 1px;
+
+}
+
+.f-letter {
+
+    color: #e74c3c;
+
+}
+
+.a-letter {
+
+    color: #27ae60;
+
+}
+
+.t-letter {
+
+    color: #8e44ad;
+
+}
+
+.e-letter {
+
+    color: #f39c12;
+
+}
+
+.fate-text {
+
+    color: #0b3d91;
+
+    margin-left: 10px;
+
+}
+
+.goal-box {
+
+    margin-top: 30px;
+
+    padding: 22px;
+
+    border-radius: 16px;
+
+    background: linear-gradient(135deg, #fff8f2, #fffdf9);
+
+    border: 1px solid #f1d5c0;
+
+}
+
+.goal-title {
+
+    font-size: 19px;
+
+    margin-bottom: 12px;
+
+    color: #8b0000;
+
+    font-weight: bold;
+
+}
+
+.goal-text {
+
+    font-size: 17px;
+
+    line-height: 1.9;
+
+    color: #5d4037;
+
+    text-align: justify;
+
+    margin: 0;
+
+}
+
+
+
 .top-nav img {
   width: 40px;
 }
