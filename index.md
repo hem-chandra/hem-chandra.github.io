@@ -35,7 +35,6 @@ layout: homepage
 
 
 
-</p>
 
 <div class="research-box">
 
