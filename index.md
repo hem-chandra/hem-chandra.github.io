@@ -7,7 +7,7 @@ layout: homepage
   About Me
 </h1>
 
-<p class="about-text">
+<p>
   Welcome! I am 
   <strong class="highlight-name">Hem Chandra Joshi</strong>, 
   a Passionate Researcher working in the areas of 
