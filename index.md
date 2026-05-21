@@ -18,7 +18,7 @@ layout: homepage
 }
 
 .quote {
-    font-size: 28px;
+    font-size: 14px;
     font-style: italic;
     color: #333;
     max-width: 800px;
