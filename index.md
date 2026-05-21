@@ -17,7 +17,7 @@ layout: homepage
     Trustworthy and Responsible Artificial Intelligence
   </span>. 
 
-  Currently, I am working as a 
+  Previously, I was working as a 
   <strong>Senior Research Fellow</strong> at 
   <a href="https://en.wikipedia.org/wiki/IIT_Roorkee" 
      target="_blank"
