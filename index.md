@@ -42,7 +42,7 @@ layout: homepage
   My core research interests focus on:
 </p>
 
-<div class="fate-container" style="font-size:14px;">
+<div class="fate-container" style="font-size:17px;">
   
 <span class="f-letter">F</span>airness &nbsp;•&nbsp;
 <span class="a-letter">A</span>ccountability &nbsp;•&nbsp;
