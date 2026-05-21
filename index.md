@@ -3,16 +3,6 @@
 ---
 layout: homepage
 ---
-
-<div class="quote-container">
-  <p class="quote">
-    “Ethics is knowing the difference between what you have a right to do and what is right to do.”
-  </p>
-  <p class="author">— Potter Stewart</p>
-</div>
-
-<br>
-
 <div class="about-container">
 
 <h1 id="about-me" class="about-title">
@@ -87,6 +77,13 @@ layout: homepage
 
 </div>
 
+</div>
+
+<div class="quote-container">
+  <p class="quote">
+    “Ethics is knowing the difference between what you have a right to do and what is right to do.”
+  </p>
+  <p class="author">— Potter Stewart</p>
 </div>
 
 {% include_relative _includes/news.md %}
