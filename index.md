@@ -83,5 +83,5 @@ layout: homepage
   </p>
 </div>
 
-{% include_relative _includes/news.md %}
+<p style="margin:0px;"> {% include_relative _includes/news.md %} </p>
 {% include_relative _includes/contact.md %}
