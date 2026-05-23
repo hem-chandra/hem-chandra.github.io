@@ -82,7 +82,7 @@ It’s not about ~~quantity~~, it’s about **quality**.
 
 <div class="quote-container">
   <p class="quote">
-    “Ethics is knowing the difference between what you have a right to do and what is right to do.” ~  Potter Stewart
+    “Ethics is knowing the difference between what you have a right to do and what is right to do.” ~  Potter
   </p>
 </div>
 
