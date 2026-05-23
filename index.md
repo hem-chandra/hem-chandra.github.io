@@ -77,8 +77,8 @@ layout: homepage
 
 </div>
 
-<div class="quote-container">
-  <p class="quote">
+<div class="quote-container" style="margin:0px;">
+  <p class="quote" style="margin:0px;">
     “Ethics is knowing the difference between what you have a right to do and what is right to do.” ~  Potter
   </p>
 </div>
