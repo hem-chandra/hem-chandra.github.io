@@ -1,12 +1,9 @@
 ---
 layout: homepage
 ---
-
-
-<p>It’s not about ~~quantity~~, it’s about **quality**.</p>
 <div class="about-container">
 
-<h1 id="about-me" class="about-title">
+<h1 id="about-me" class="about-title" style="margin:0px;">
   About Me
 </h1>
 
