@@ -1,79 +1,43 @@
 .blinking-news {
-
     margin: 10px 0px 10px;
-
     animation: blink 1.2s infinite;
-
 }
 
 @keyframes blink {
 
-    0% {
-
-        opacity: 1;
-
-    }
-
-    50% {
-
-        opacity: 0.2;
-
-    }
-
-    100% {
-
-        opacity: 1;
-
-    }
-
+    0% { opacity: 1; }
+    50% { opacity: 0.2; }
+    100% { opacity: 1; }
 }
 
 .quote-container {
-
     margin-top: 0px;
-
     text-align: center;
-
     animation: float 3s ease-in-out infinite;
-
     font-family: Arial, sans-serif;
-
 }
 
 .quote {
-
     font-size: 14px;
-
     font-style: italic;
-
     color: #333;
-
     max-width: 800px;
-
     margin: auto;
-
 }
 
 .author {
 
     margin-top: 0px;
-
     font-size: 20px;
-
     color: #666;
 
 }
 
 @keyframes float {
 
-    0% {
-
-        transform: translateY(0px);
-
-    }
+    0% {  transform: translateY(0px);  }
 
     50% {
-
         transform: translateY(-12px);
 
     }
