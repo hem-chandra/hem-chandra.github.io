@@ -1,4 +1,5 @@
-<h2 style="margin: 10px 0px 10px;">News</h2>
+<h2 class="blinking-news" style="margin: 10px 0px 10px;">News</h2>
+
 
 <ul>
 
