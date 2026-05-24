@@ -1,15 +1,6 @@
 main:
 
-  - title: "FairGenerate: Enhancing Fairness Through Synthetic Data Generation and Two-Fold Biased Labels Removal"
-    authors:  <strong>Hem Chandra Joshi</strong>, Sandeep Kumar
-    conference_short: ACM TOSEM
-    conference: ACM Transactions on Software Engineering and Methodology
-    pdf: https://dl.acm.org/doi/abs/10.1145/3730579
-    bibtex: https://raw.githubusercontent.com/hem-chandra/hem-chandra.github.io/Default/bibtex/FairGenerate.txt
-    code: https://github.com/xyz745/FairGenerate
-    image: https://raw.githubusercontent.com/hem-chandra/hem-chandra.github.io/Default/assets/img/pi/4_fair_generate.png
-    summary:  FairGenerate, a pre-processing method that (a) balances the internal distribution of training datasets based on class labels and sensitive attributes by generating synthetic data samples using differential evolution and (b) identifies the biased labels through situation testing and removes them before and after synthetic data generation, hence the development of fair ML software.  
-    
+
   - title: "FairPreprocessor: Better Fairness via Addressing Imbalanced Data through Synthetic Data Generation and Mitigating Biased Labels"
     authors: <strong>Hem Chandra Joshi</strong>, Sandeep Kumar
     conference_short: IEEE Intelligent Systems
@@ -20,3 +11,13 @@ main:
     image: https://raw.githubusercontent.com/hem-chandra/hem-chandra.github.io/Default/assets/img/pi/5_fair_preprocessor.png
     summary:  FairPreprocessor addresses ’imbalanced data’ through rebalancing the internal data distribution by employing synthetic data techniques grounded in differential evolution. It also selects the most suitable crossover rate in synthetic data generation to achieve better fairness. Additionally, it identifies and removes biased labels through situation testing, thereby mitigating their effects and developing fairer ML software.
  
+  - title: "FairGenerate: Enhancing Fairness Through Synthetic Data Generation and Two-Fold Biased Labels Removal"
+    authors:  <strong>Hem Chandra Joshi</strong>, Sandeep Kumar
+    conference_short: ACM TOSEM
+    conference: ACM Transactions on Software Engineering and Methodology
+    pdf: https://dl.acm.org/doi/abs/10.1145/3730579
+    bibtex: https://raw.githubusercontent.com/hem-chandra/hem-chandra.github.io/Default/bibtex/FairGenerate.txt
+    code: https://github.com/xyz745/FairGenerate
+    image: https://raw.githubusercontent.com/hem-chandra/hem-chandra.github.io/Default/assets/img/pi/4_fair_generate.png
+    summary:  FairGenerate, a pre-processing method that (a) balances the internal distribution of training datasets based on class labels and sensitive attributes by generating synthetic data samples using differential evolution and (b) identifies the biased labels through situation testing and removes them before and after synthetic data generation, hence the development of fair ML software.  
+    
