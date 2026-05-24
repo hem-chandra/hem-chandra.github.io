@@ -74,11 +74,11 @@ layout: homepage
 
 </div>
 
-<div class="quote-container" style="margin:0px;">
+<!-- <div class="quote-container" style="margin:0px;">
   <p class="quote" style="margin:0px;">
     “Ethics is knowing the difference between what you have a right to do and what is right to do.” ~  Potter
   </p>
-</div>
+</div> -->
 
 <p style="margin:0px;"> {% include_relative _includes/news.md %} </p>
 {% include_relative _includes/contact.md %}
