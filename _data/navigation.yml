@@ -17,6 +17,9 @@ main:
   # - title: "AI For Privacy"
   #   url: ai-for-privacy/
 
+  - title: "Projects"
+    url: project/
+
   - title: "AI For Society"
     url:  ai-for-society/
     
@@ -31,9 +34,6 @@ main:
     
   - title: "Publications"
     url: publications/
-
-  - title: "Projects"
-    url: project/
   
   - title: "Home"
     url: ./
