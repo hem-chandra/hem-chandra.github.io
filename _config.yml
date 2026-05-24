@@ -1,14 +1,14 @@
 # Basic Information 
 title: Hem Chandra Joshi
 position: Researcher
-affiliation: Indian Institute of Technology Roorkee (IIT Roorkee)
+affiliation: Indian Institute of Technology Roorkee (IIT Roorkee) \n\n “Ethics is knowing the difference between what you have a right to do and what is right to do.” ~ Potter
+
 # affiliation_logo: ./assets/img/IIT_Roorkee.svg
 email: hc_joshi(at)cs.iitr.ac.in
 
 # Site Settings for USER site (no baseurl)
 url: "https://hem-chandra.github.io"
-baseurl: “Ethics is knowing the difference between what you have a right to do and what is right to do.” ~ Potter
-
+baseurl: 
 remote_theme: yaoyao-liu/minimal-light
 
 # SEO
