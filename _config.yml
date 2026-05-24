@@ -23,6 +23,7 @@ avatar: ./assets/img/Hem.jpeg
 # Links
 link_type: icon
 google_scholar: https://scholar.google.com/citations?user=CUASp0gAAAAJ&hl=en&oi=ao
+dblp: https://dblp.org/pid/340/1206.html
 
 # Plugins (only needed for local builds)
 plugins:
