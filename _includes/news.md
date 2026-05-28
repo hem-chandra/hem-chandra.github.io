@@ -3,6 +3,8 @@
 
 <ul>
 
+ <li>Our paper <a href="./publications">"FairLabeler: Achieving Fairness via Biased Label Detection and Correction"</a> has been accepted to <b>IEEE Intelligent Systems </b> (Q1 Journal, IF: 6.1).</li>
+
   <li> Contributing as a <b>Research Team Member</b> to the Synthetic Data Generation project under the <a href="https://indiaai.gov.in/news/selected-projects-for-responsible-ai-themed-projects-under-safe-trusted-ai-pillar" target="_blank">Responsible AI Theme (IndiaAI–IBD, MeitY)</a>, focusing on the development of AI tools and frameworks to enhance fairness in ML by generating synthetic data and mitigating biased labels. </li>
 
   <li>Our paper <a href="./publications">"FairPreprocessor: Better Fairness via Addressing Imbalanced Data through Synthetic Data Generation and Mitigating Biased Labels"</a> has been accepted to <b>IEEE Intelligent Systems </b> (Q1 Journal, IF: 6.1).</li>
