@@ -1,6 +1,6 @@
 main:
 
- - title: "FairLabeler: Achieving Fairness via Biased Label Detection and Correction"
+  - title: "FairLabeler: Achieving Fairness via Biased Label Detection and Correction"
     authors: <strong>Hem Chandra Joshi</strong>, Sandeep Kumar
     conference_short: IEEE Intelligent Systems
     conference: IEEE Intelligent Systems
