@@ -9,6 +9,7 @@ main:
     code: Soon Available
     image: https://raw.githubusercontent.com/hem-chandra/hem-chandra.github.io/Default/assets/img/pi/6_fair_labeler.png
     
+    
   - title: "FairPreprocessor: Better Fairness via Addressing Imbalanced Data through Synthetic Data Generation and Mitigating Biased Labels"
     authors: <strong>Hem Chandra Joshi</strong>, Sandeep Kumar
     conference_short: IEEE Intelligent Systems
@@ -18,6 +19,7 @@ main:
     code: https://github.com/sendgmale/FairPreprocessor
     image: https://raw.githubusercontent.com/hem-chandra/hem-chandra.github.io/Default/assets/img/pi/5_fair_preprocessor.png
     
+    
   - title: "FairGenerate: Enhancing Fairness Through Synthetic Data Generation and Two-Fold Biased Labels Removal"
     authors:  <strong>Hem Chandra Joshi</strong>, Sandeep Kumar
     conference_short: ACM TOSEM
@@ -26,6 +28,7 @@ main:
     bibtex: https://raw.githubusercontent.com/hem-chandra/hem-chandra.github.io/Default/bibtex/FairGenerate.txt
     code: https://github.com/xyz745/FairGenerate
     image: https://raw.githubusercontent.com/hem-chandra/hem-chandra.github.io/Default/assets/img/pi/4_fair_generate.png
+    
 
   - title: "Artificial Intelligence Failures in Autonomous Vehicles: Causes, Implications, and Prevention"
     authors:  <strong>Hem Chandra Joshi</strong>, Sandeep Kumar
