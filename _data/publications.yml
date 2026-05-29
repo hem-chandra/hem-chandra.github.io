@@ -4,12 +4,11 @@ main:
     authors: <strong>Hem Chandra Joshi</strong>, Sandeep Kumar
     conference_short: IEEE Intelligent Systems
     conference: IEEE Intelligent Systems
-    pdf: 
-    bibtex: 
-    code: 
+    pdf: Soon Available
+    bibtex: Soon Available
+    code: Soon Available
     image: https://raw.githubusercontent.com/hem-chandra/hem-chandra.github.io/Default/assets/img/pi/6_fair_labeler.png
-    summary:  
-
+    
   - title: "FairPreprocessor: Better Fairness via Addressing Imbalanced Data through Synthetic Data Generation and Mitigating Biased Labels"
     authors: <strong>Hem Chandra Joshi</strong>, Sandeep Kumar
     conference_short: IEEE Intelligent Systems
