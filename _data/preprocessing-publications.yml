@@ -3,9 +3,9 @@ main:
     authors: "<strong>Hem Chandra Joshi</strong>, Sandeep Kumar"
     conference_short: "IEEE Intelligent Systems"
     conference: "IEEE Intelligent Systems"
-    pdf: "Soon Available"
-    bibtex: "Soon Available"
-    code: "Soon Available"
+    pdf: "https://doi.org/10.1109/MIS.2026.3700908"
+    bibtex: "https://doi.org/10.1109/MIS.2026.3700908"
+    code: "https://doi.org/10.1109/MIS.2026.3700908"
     image: "https://raw.githubusercontent.com/hem-chandra/hem-chandra.github.io/Default/assets/img/pi/6_fair_labeler.png"
     summary: "FairLabeler addresses biased labels, one of the primary causes of bias in training datasets."
 
