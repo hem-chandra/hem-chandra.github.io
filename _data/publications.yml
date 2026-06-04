@@ -5,8 +5,8 @@ main:
     conference_short: IEEE Intelligent Systems
     conference: IEEE Intelligent Systems
     pdf: https://doi.org/10.1109/MIS.2026.3700908
-    bibtex: Soon Available
-    code: Soon Available
+    bibtex: https://doi.org/10.1109/MIS.2026.3700908
+    code: https://doi.org/10.1109/MIS.2026.3700908
     image: https://raw.githubusercontent.com/hem-chandra/hem-chandra.github.io/Default/assets/img/pi/6_fair_labeler.png
     
     
