@@ -1,0 +1,10 @@
+@ARTICLE{11552355,
+  author={Joshi, Hem Chandra and Kumar, Sandeep},
+  journal={IEEE Intelligent Systems}, 
+  title={FairLabeler: Achieving Fairness via Biased Label Detection and Correction}, 
+  year={2026},
+  volume={},
+  number={},
+  pages={1-14},
+  keywords={Labeling;Modeling;Training;Measurement;Learning (artificial intelligence);Weighted sum model;Aging;Permission;Software;Support vector machines},
+  doi={10.1109/MIS.2026.3700908}}
