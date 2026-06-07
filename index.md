@@ -38,7 +38,15 @@ Currently, I am a member of the <strong>IndiaAI Mission</strong> under the <stro
 <div class="research-box">
 
 <p class="about-text no-margin">
- <span class="fate-text" style="font-size:19px;"> My core research interests focus on fairness, accountability, transparency, and ethics (FATE) in AI systems.</span>
+  <span class="fate-text" style="font-size:19px;">
+    My core research interests focus on
+    <span style="color:#e74c3c;font-weight:bold;">F</span>airness,
+    <span style="color:#3498db;font-weight:bold;">A</span>ccountability,
+    <span style="color:#2ecc71;font-weight:bold;">T</span>ransparency, and
+    <span style="color:#f39c12;font-weight:bold;">E</span>thics
+    (<span style="color:#e74c3c;font-weight:bold;">F</span><span style="color:#3498db;font-weight:bold;">A</span><span style="color:#2ecc71;font-weight:bold;">T</span><span style="color:#f39c12;font-weight:bold;">E</span>)
+    in AI systems.
+  </span>
 </p>
 
 <!-- <div class="fate-container" style="font-size:17px;">
