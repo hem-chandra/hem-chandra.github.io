@@ -14,7 +14,7 @@ layout: homepage
   <span class="highlight-ai">
     Trustworthy and Responsible Artificial Intelligence.
   </span>
-Currently, I am a member of the <strong>IndiaAI Mission</strong> under the <strong>Responsible AI </strong>strong> theme, focusing on synthetic data generation.  Previously, I was associated as a 
+Currently, I am a member of the <strong>IndiaAI Mission</strong> under the <strong>Responsible AI </strong> theme, focusing on synthetic data generation.  Previously, I was associated as a 
   <strong>Senior Research Fellow</strong> at 
   <a href="https://en.wikipedia.org/wiki/IIT_Roorkee" 
      target="_blank"
