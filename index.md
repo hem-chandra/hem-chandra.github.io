@@ -89,6 +89,8 @@ Currently, I am a member of the <strong>IndiaAI Mission</strong> under the <stro
 
 <p style="margin:0px;"> {% include_relative _includes/news.md %} </p>
 
-<p style="font-style: italic; color: #555;">
+<h3 style="color:#2c3e50;">🤝 Research Collaboration Opportunities</h3>
+
+<p style="font-style: italic;">
 I welcome opportunities to collaborate with researchers and practitioners working in the areas of Trustworthy AI, Responsible AI, Fairness, Explainability, and AI Ethics. If you are interested in exploring potential research collaborations, please feel free to contact me at hc_joshi [at] cs [dot] iitr [dot] ac [dot] in.
 </p>
