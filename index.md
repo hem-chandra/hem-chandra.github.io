@@ -28,10 +28,9 @@ layout: homepage
   </a>. I hold an M.Tech. in Artificial Intelligence from  <a href="https://uohyd.ac.in/"
      target="_blank"
      class="custom-link">
-    University of Hyderabad
+    University of Hyderabad, supported by a GATE Scholarship.
   </a>.
 </p>
-
 
 
 <div class="research-box">
