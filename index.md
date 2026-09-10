@@ -47,7 +47,7 @@ layout: homepage
   remains a significant challenge.
 </p>
 </div>
-</div>
+
 
 
 <!-- <div class="research-box">
@@ -78,5 +78,5 @@ layout: homepage
 <p style="margin:0px;">
   {% include_relative _includes/news.md %}
 </p>
-
 </div>
+
