@@ -28,12 +28,21 @@ layout: homepage
   </a>. I hold an M.Tech. in Artificial Intelligence from  <a href="https://uohyd.ac.in/"
      target="_blank"
      class="custom-link">
-    University of Hyderabad, supported by a GATE Scholarship.
-  </a>.
+    University of Hyderabad
+  </a>, supported by a GATE Scholarship.
+</p>
+
+<p class="goal-text">
+  My research aims to identify and address ethical challenges in AI systems,
+  including algorithmic bias, fairness, interpretability, and explainability,
+  through the development of responsible and trustworthy AI methodologies.
+  As AI systems continue to advance, ensuring their transparency, fairness,
+  and trustworthiness remains an important research challenge, particularly
+  in critical domains.
 </p>
 
 
-<div class="research-box">
+<!-- <div class="research-box">
 
 <p class="about-text no-margin">
   <span class="fate-text" style="font-size:19px;">
@@ -47,7 +56,7 @@ layout: homepage
   </span>
 </p>
 
-</div>
+</div> -->
 
 <h3 style="color:#2c3e50;">🤝 Research Collaboration</h3>
 
