@@ -13,7 +13,7 @@ layout: homepage
   <strong class="highlight-name">Hem Chandra Joshi</strong>,
   a <b>researcher</b> working on
   <span class="highlight-ai">
-    Ethical AI [Fairness, Accountability, Transparency, Explainability].
+    Ethical AI [Fairness, Accountability, Transparency, and Explainability] domain.
   </span>
 </p>
 
