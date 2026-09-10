@@ -11,8 +11,10 @@ layout: homepage
 <p>
   Welcome! I am
   <strong class="highlight-name">Hem Chandra Joshi</strong>,
-  a <b>researcher</b> working in the areas of
-  <span class="highlight-ai"> Ethical AI, Fairness, Accountability, Transparency, Explainability, and Machine Learning.</span>
+  a <b>researcher</b> working at the intersection of
+  <span class="highlight-ai">
+    Ethical AI [Fairness, Accountability, Transparency, Explainability] and Machine Learning.
+  </span>
 </p>
 
 <p>
