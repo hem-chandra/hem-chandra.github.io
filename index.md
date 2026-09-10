@@ -28,7 +28,7 @@ layout: homepage
      target="_blank"
      class="custom-link">
     Indian Institute of Technology Roorkee (IIT Roorkee)
-  </a>. I hold an M.Tech. in Artificial Intelligence from  <a href="https://uohyd.ac.in/"
+  </a>. I hold an <b>M.Tech. in Artificial Intelligence</b> from  <a href="https://uohyd.ac.in/"
      target="_blank"
      class="custom-link">
     University of Hyderabad
