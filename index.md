@@ -11,7 +11,7 @@ layout: homepage
 <p>
   Welcome! I am
   <strong class="highlight-name">Hem Chandra Joshi</strong>,
-  a researcher working in the areas of
+  a <b>researcher</b> working in the areas of
   <span class="highlight-ai">Trustworthy AI, Responsible AI, and Machine Learning.</span>
 </p>
 
