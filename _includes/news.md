@@ -2,7 +2,7 @@
 
 
 <ul>
-<li> Selected for Faculty AI Fellowship. 
+<li> Selected for Faculty AI Fellowship. </li>
  
  <li>Our paper <a href="./publications">"FairLabeler: Achieving Fairness via Biased Label Detection and Correction"</a> has been accepted to <b>IEEE Intelligent Systems </b> (Q1 Journal, IF: 6.3).</li>
 
