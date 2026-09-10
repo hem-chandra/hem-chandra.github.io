@@ -32,14 +32,20 @@ layout: homepage
   </a>, supported by a GATE Scholarship.
 </p>
 
-<p class="goal-text">
-  My research aims to identify and address ethical challenges in AI systems,
-  including algorithmic bias, fairness, interpretability, and explainability,
-  through the development of responsible and trustworthy AI methodologies.
-  As AI systems continue to advance, ensuring their transparency, fairness,
-  and trustworthiness remains an important research challenge, particularly
-  in critical domains.
+<div class="goal-box">
+<p class="goal-title">
+  My Long-term Goal
 </p>
+<p class="goal-text">
+  To identify and address ethical challenges in AI systems, including 
+  algorithmic bias, fairness, interpretability, and explainability, 
+  through the development of responsible and trustworthy AI methodologies. 
+  Although AI systems have achieved remarkable capabilities, ensuring 
+  their transparency, fairness, and trustworthiness in critical domains 
+  remains a significant challenge.
+</p>
+</div>
+</div>
 
 
 <!-- <div class="research-box">
