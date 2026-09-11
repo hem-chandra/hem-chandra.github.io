@@ -67,6 +67,11 @@ layout: homepage
 
 </div> -->
 
+
+<p style="margin:0px;">
+  {% include_relative _includes/news.md %}
+</p>
+
 <h3 style="color:#2c3e50;">🤝 Research Collaboration</h3>
 
 <p style="font-style: italic;">
@@ -76,8 +81,7 @@ layout: homepage
   hc_joshi [at] cs [dot] iitr [dot] ac [dot] in.
 </p>
 
-<p style="margin:0px;">
-  {% include_relative _includes/news.md %}
-</p>
+
+
 </div>
 
