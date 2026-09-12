@@ -3,7 +3,7 @@
 ## <span style="color:#2E86C1;">Synthetic Data Generation – Responsible AI Theme</span>
 <b>Role:</b> <span style="color:#C70039;">Research Team Member</span>  
 <b>Organization:</b> <span style="color:#2874A6;">IndiaAI–IBD, Ministry of Electronics and Information Technology (MeitY), Government of India</span>  
-<b>Duration:</b> <span style="color:#27AE60;">Feb 2025 – Present</span>  
+<b>Duration:</b> <span style="color:#27AE60;">Feb 2025 – Nov 2025</span>  
 
 Contributing to the development of AI tools and frameworks to enhance fairness in machine learning by generating synthetic data and mitigating biased labels.  
 
