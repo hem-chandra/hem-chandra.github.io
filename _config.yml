@@ -10,7 +10,7 @@ email: hc_joshi(at)cs.iitr.ac.in
 
 # Site Settings for USER site (no baseurl)
 url: "https://hem-chandra.github.io"
-baseurl: 
+baseurl: "https://hem-chandra.github.io"
 remote_theme: yaoyao-liu/minimal-light
 
 # SEO
