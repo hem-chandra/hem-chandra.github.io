@@ -3,7 +3,7 @@
 
 <ul>
 
-<li>Invited to serve on the ICSE 2026 Shadow PC</li>
+<li>Invited to serve on the ICSE 2026 Shadow PC.</li>
 
 <li> Selected for Faculty AI Fellowship. </li>
  
