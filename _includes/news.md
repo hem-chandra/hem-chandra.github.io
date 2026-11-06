@@ -2,6 +2,9 @@
 
 
 <ul>
+
+<li>Invited to serve on the ICSE 2026 Shadow PC</li>
+
 <li> Selected for Faculty AI Fellowship. </li>
  
  <li>Our paper <a href="./publications">"FairLabeler: Achieving Fairness via Biased Label Detection and Correction"</a> has been accepted to <b>IEEE Intelligent Systems </b> (Q1 Journal, IF: 6.3).</li>
